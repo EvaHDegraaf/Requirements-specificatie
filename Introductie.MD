@@ -68,12 +68,49 @@ Doorlopend zal de chatbot moeten worden geupdate zodra er nieuwe verbeterde ai-m
   - Goed contact met extern software bedrijf.
 
 
-#### 6. **Klantenservice**
+#### 6. Klantenservice
 - **Beschrijving**: Het klantenserviceteam dat ondersteuning biedt aan de klanten van Solmate.
 - **Rol**: Ondersteuning
 - **Behoeften**:
   - Vermindering van werkdruk door self-service mogelijkheden via de app.
   - Eenvoudige toegang tot klantgegevens voor ondersteuning klantproblemen.
+
+
+### _Bedrijfsprocesanalyse_
+
+#### IST
+- Beschrijving: Klanten kunnen contact opnemen met klantenservice indien er porblemen, vragen of klachten zijn.
+- Problemen:
+  - Lange wachttijden voor klantservice.
+  - Weinig inzicht op klantendata.
+  - Veel tijd en geld kwijt wegens personeel
+
+#### SOLL
+- Beschrijving: De app biedt klanten de mogelijkheid om 24/7 gebruik te maken van een AI-chatbot voor het beantwoorden van veelgestelde vragen en het geven van technische ondersteuning, daarnaast hebben de klanten de mogelijkheid om guides te bekijken, status van hun producten te zien, nieuws over de producten te lezen of contact op te nemen met een medewerker.
+- Verbetermogelijkheden:
+  - Verminderen van wachttijden voor klantenservice.
+  - Beter inzicht in klanttevredenheid door digitale feedback.
+
+
+#### GAP
+
+- **Huidige Gap**: Er is geen centrale plaats op mobiel voor klanten om informatie te krijgen over onze producten.
+- **Oplossing**: De app bied klanten meerdere mogelijkheden aan om meer te leren overons product en krijgen nieuws binnen over updates etc.
+
+- **Huidige Gap**: Er is onvoldoende self-service voor klanten, wat leidt tot lange wachttijden bij klantenservice en een hooge werkdruk op medewerkers en meer kosten aan klantenservice.
+- **Oplossing**: De app biedt pties zoals een AI-chatbot en de mogelijkheid om veelvoorkomende problemen zelf op te lossen voordat een medewerker moet worden gecontacteerd wat geld en tijd bespaard.
+
+#### SIPOC Model
+
+
+| **S (Suppliers)**                 | **I (Inputs)**                             | **P (Process)**                                                                 | **O (Outputs)**                                 | **C (Customers)**                                          |
+|-----------------------------------|-------------------------------------------|-------------------------------------------------------------------------------|-------------------------------------------------|------------------------------------------------------------|
+| Klanten                           | Klacht of vraag                           | Klant opent app > stelt vraag in de app                                       | Tevredenheid                                    | Klanten die toegang hebben tot hun geregistreerde producten en relevante updates. |
+| Marketing                         | Eisen voor app                            | Marketing maakt lijst van eisen en stuurt deze naar het externe softwarebedrijf | App                                              |                                                            |
+| Extern softwarebedrijf           | Data voor app                             | Extern softwarebedrijf ontwikkelt app en geeft deze aan het bedrijf            | Automatische meldingen van garantie             |                                                            |
+| Klantenservice                    | Response klant                            | Klantenservice opent ticket voor klant en beantwoordt dit                      |                                                 |                                                            |
+
+
 
 
 
