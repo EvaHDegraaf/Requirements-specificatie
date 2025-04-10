@@ -121,5 +121,56 @@ Doorlopend zal de chatbot moeten worden geupdate zodra er nieuwe verbeterde ai-m
 |-------------------------------------------------------------------|----------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|
 | - Concurrenten die ook een app hebben | - meer mensen die intresse hebben in een Solmate product door goede klantrelaties | - Ontwikkelingskosten voor de app, marketing- en verkoopkosten, kosten van klantenservice personeel.   | - App Store en Play Store.|
 
+#### User Stories
+
+**Als** klant  
+**wil ik** meldingen ontvangen over updates  
+**zodat** ik als eerste de nieuwe functies heb.
+
+##### Acceptatiecriteria
+- updates voor de solmate telefoon
+- Update pushberichten op app
+
+**Als** klant  
+**wil ik** toegang tot duidelijke guides binnen handberijk over de solmate telefoon
+**zodat** ik mijn apparaat optimaal kan gebruiken.
+
+##### Acceptatiecriteria
+- Handleidingen zijn per product beschikbaar.
+- Zoekfunctie in de app.
+
+
+**Als** klant  
+**wil ik** een hatbot kunnen gebruiken voor mijn vragen  
+**zodat** ik niet met een echt persoon hoef te praten want ik ben verlegen
+
+##### Acceptatiecriteria
+- Chatbot is 24/7 beschikbaar.
+- Antwoorden op veelgestelde vragen zijn correct en duidelijk.
+
+**Als** Klantenservice  
+**wil ik** een lagere werkdruk
+**zodat** ik meer tijd heb om goed advies te geven per klant
+
+##### Acceptatiecriteria
+- kortere wachtijden
+- minder klanten per dag
+
+
+##### Dor 
+
+
+-  Er zijn plannen en voorwaarden gemaakt door het marketing team voor het ontwikkelen van de app.
+- contact details voor customer service zijn te vinden in de app
+- raad van commesarisen heeft het plan van de app goed gekeurd
+
+##### Dod
+
+- App is geleverd en alles wat gevraagd was werkt
+- app is live in de app-winkels
+- klanten hebben de app gedownload
+- tevreden reviews op app-winkels
+- customer service heeft een lagere werkdruk
+
 
 
