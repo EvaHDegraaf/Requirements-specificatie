@@ -110,8 +110,16 @@ Doorlopend zal de chatbot moeten worden geupdate zodra er nieuwe verbeterde ai-m
 | Extern softwarebedrijf           | Data voor app                             | Extern softwarebedrijf ontwikkelt app en geeft deze aan het bedrijf            | Automatische meldingen van garantie             | Klanten die updates ontvangen over hun geregistreerde producten |
 | Klantenservice                    | Response klant                            | Klantenservice opent ticket voor klant en beantwoordt dit                      | Klanttevredenheid                               | Klanten die hulp ontvangen bij hun vragen of problemen via de app |
 
+#### Product Vision Board 
 
+| **TARGET GROUPS**                                                                | **NEEDS**                                                                                         | **PRODUCT**                                                                                                         | **BUSINESS GOALS**                                                                                               |
+|----------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|
+| Klanten die een Telefoon hebben gekocht van Solmate                     | Klanten willen een eenvoudige manier om hun vragen beantwoord te krijgen en updates ontvangen. | app waarmee klanten updates ontvangen en selfservice hebben. | Verbeterde klantloyaliteit door verbeterde klantervaring en kostenbesparing door automatisering van de klantenservice. |
+| Klanten die behoefte hebben aan klantenservice. | Klanten willen snel hulp bij hun klacht, vraag of probleem                  | Een chatbot in de app, mogelijkhijd om contact op te nemen, en een Guide over de telefoon.            | Verhogen van klanttevredenheid en vermindering van de kosten aan klantenservice. |
 
+| **COMPETITORS**                                                   | **REVENUE STREAMS**                                                   | **COST FACTORS**                                                                                       | **CHANNELS**                                                                                                  |
+|-------------------------------------------------------------------|----------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|
+| - Concurrenten die ook een app hebben | - meer mensen die intresse hebben in een Solmate product door goede klantrelaties | - Ontwikkelingskosten voor de app, marketing- en verkoopkosten, kosten van klantenservice personeel.   | - App Store en Play Store.|
 
 
 
