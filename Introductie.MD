@@ -26,8 +26,7 @@ Doorlopend zal de chatbot moeten worden geupdate zodra er nieuwe verbeterde ai-m
 |--------------------------|----------------------------------------------------------|----------|-------------------------------------------------------------|
 | **Raad van Commissarissen**  |  klantloyaliteit, besparing op klantenservice                                     | Hoog     | Verwacht strategisch rendement en rapportage               |
 | **CEO / Management**        | Succesvolle implementatie, tevreden klanten, winstgevendheid | Hoog     | Behoefte aan strategische beslissingen en transparantie     |
-| **Marketing**               | Meer klantbetrokkenheid, data-inzichten                  | Middel   | Verwacht analysefuncties en promotiemogelijkheden           |
-| **IT & Innovatie**          | Technisch haalbaar systeem, goede integraties            | Hoog     | Let op performance, beveiliging, schaalbaarheid             |
+| **Marketing**               | Meer klantbetrokkenheid, klantendata                 | Middel   | Verwacht analysefuncties en promotiemogelijkheden           |
 | **Klantenservice**          | Minder druk door self-service      | Laag     | Verwacht heldere structuur voor klanten                     |        |
 | **Klanten (eindgebruikers)**| Gebruiksvriendelijke app,  toegevoegde waarde    | Middel   | Verwacht gemak, duidelijkheid, veiligheid                   |
 | **Externe softwarebedrijf** | Duidelijke specificaties, betaalde opdracht              | Hoog     | Verwacht concrete eisen en feedback                        |
