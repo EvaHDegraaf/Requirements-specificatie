@@ -72,7 +72,7 @@ Doorlopend zal de chatbot moeten worden geupdate zodra er nieuwe verbeterde ai-m
 - **Beschrijving**: Het klantenserviceteam dat ondersteuning biedt aan de klanten van Solmate.
 - **Rol**: Ondersteuning
 - **Behoeften**:
-  - Vermindering van werkdruk door self-service mogelijkheden via de app.
+  - Vermindering werkdruk door self-service mogelijkheden via de app.
   - Eenvoudige toegang tot klantgegevens voor ondersteuning klantproblemen.
 
 
@@ -180,10 +180,14 @@ Doorlopend zal de chatbot moeten worden geupdate zodra er nieuwe verbeterde ai-m
 | **Product**    | productID, naam, serienummer, aankoopDatum                 | Hoort bij één klant, heeft garantie & updates   |
 | **GUide**   | Guide versie                                      | Hoort bij één product                           |
 | **Update**     | versie, beschrijving                             | Hoort bij één product                           |
-| **Chat**       | chatID, inhoud                             | Hoort bij één klant                             |
+| **Chat**       | inhoud, chatID                             | Hoort bij één klant                             |
 
 
 #### Sitemap 
 
 ![ Sitemap ](Sitemap.png)
+
+Bronen; 
+Team; SolMate 
+
 
