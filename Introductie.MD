@@ -15,10 +15,10 @@ De strategie van Solmate is om het design van de app uit te besteden aan een sof
 Bij het ontwerp van de app hebben we specifieke doelstellingen geformuleerd, die hieronder worden toegelicht. Om deze doelstellingen te behalen, zullen we onder andere etiketten uitsturen via e-mail en de app-data analyseren om te controleren of alle functies daadwerkelijk door de klant worden benut.
 
 #### Doelstellingen
-Binnen 5 maanden moet de app door minstens 100000 klanten gedownload zijn
-Binnen 1 jaar moet de app 30% op de uitgaven in klantenservice besparen.
-Binnen 3 jaar moet de app door minstens 10% van de klanten van solmate actief worden gebruikt.
-Doorlopend zal de chatbot moeten worden geupdate zodra er nieuwe verbeterde ai-modellen op de markt komen.
+- **Binnen 5 maanden:** De app moet door minstens 100.000 klanten gedownload zijn, wat bijdraagt aan een brede klantacceptatie en het vergroten van de merkbekendheid.
+- **Binnen 1 jaar:** De app moet 30% van de klantenservice-uitgaven besparen door efficiënt gebruik van self-service functies, waaronder de AI-chatbot.
+- **Binnen 3 jaar:** De app moet minstens 10% van de klanten van SolMate actief gebruiken, waardoor het klantengagement significant toeneemt.
+- **Doorlopend:** De AI-chatbot moet regelmatig worden geüpdatet om gebruik te maken van de nieuwste verbeterde AI-modellen, zodat de klantbeleving continu verbetert.
 
 ### _Stakeholderanalyse_
 
