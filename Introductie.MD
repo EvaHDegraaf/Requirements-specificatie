@@ -209,3 +209,6 @@ Doorlopend zal de chatbot moeten worden geupdate zodra er nieuwe verbeterde ai-m
   - Geregistreerde producten
 
 
+#### Sitemap 
+
+![Sitemap\](sitemap.png)
