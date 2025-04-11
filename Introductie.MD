@@ -211,5 +211,5 @@ Doorlopend zal de chatbot moeten worden geupdate zodra er nieuwe verbeterde ai-m
 
 #### Sitemap 
 
-![ Sitemap ](Requirements-specificatie/Sitemap.png)
+![ Sitemap ](Sitemap.png)
 
