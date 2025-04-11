@@ -166,11 +166,11 @@ Doorlopend zal de chatbot moeten worden geupdate zodra er nieuwe verbeterde ai-m
 
 ##### Dod
 
-- App is geleverd en alles wat gevraagd was werkt
-- app is live in de app-winkels
-- klanten hebben de app gedownload
-- positieve beoordelingen in de appstores
-- customer service heeft een lagere werkdruk
+- Volledige functionaliteit geleverd: De app is geleverd en alle vereiste functionaliteiten werken zoals gevraagd in de specificaties.
+- App live in de app stores: De app is succesvol gelanceerd en is beschikbaar in de App Store en Play Store.
+- App gedownload door klanten: Klanten hebben de app gedownload en gebruiken deze actief.
+- Positieve appbeoordelingen: De app heeft positieve beoordelingen in de app stores.
+- Verlaagde werkdruk voor klantenservice: Door de app is de werkdruk bij de klantenservice significant verlaagd.
 
 #### UMLKlassendiagram
 
