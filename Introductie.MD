@@ -211,4 +211,5 @@ Doorlopend zal de chatbot moeten worden geupdate zodra er nieuwe verbeterde ai-m
 
 #### Sitemap 
 
-![Sitemap\](sitemap.png)
+![Sitemap van de PhoneVentures App](images/sitemap.png)
+
