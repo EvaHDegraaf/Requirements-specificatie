@@ -160,9 +160,9 @@ Doorlopend zal de chatbot moeten worden geupdate zodra er nieuwe verbeterde ai-m
 ##### Dor 
 
 
-- Er zijn plannen en voorwaarden gemaakt door het marketing team voor het ontwikkelen van de app.
-- contact details voor customer service zijn te vinden in de app
-- Raad van Commissarissen heeft het plan van de app goed gekeurd
+- **Marketingteam heeft het plan goedgekeurd:** Het marketingteam heeft duidelijke plannen en voorwaarden opgesteld voor de appontwikkeling.
+- **Contactgegevens klantenservice beschikbaar:** Klanten kunnen eenvoudig de contactgegevens van de klantenservice vinden binnen de app.
+- **Goedkeuring Raad van Commissarissen:** Het ontwikkelingsplan is goedgekeurd door de Raad van Commissarissen.
 
 ##### Dod
 
