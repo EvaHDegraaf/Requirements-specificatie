@@ -5,10 +5,10 @@
 ## Organisatorische Context
 
 ### _Missie_
-Om als bedrijf onder Phoneventures een App te ontwikkelen waar klanten toegang hebben tot diensten en informatie voor en over hun aangekochte telefoon.
+Om als bedrijf onder Phoneventures een app te ontwikkelen waar klanten toegang hebben tot diensten en informatie voor en over de aangekochte telefoon.
 
 ### _Visie_
-Het verbeteren van klantrelaties en klantervaring dat op termijn zal lijden tot hogere sales, lagere kosten voor customerservice en een concurentievoordeel door innovatieve en klantgerichte oplossingen te bieden.
+Het verbeteren van klantrelaties en klantervaring dat op termijn zal leiden tot hogere sales, lagere kosten voor customerservice en een concurentievoordeel door innovatieve en klantgerichte oplossingen te bieden.
 
 ### _Strategie_
 De strategie van Solmate is om het design van de app uit te besteden aan een softwarebedrijf dat gespecialiseerd is in mobiele applicaties, aangezien ons bedrijf zich voornamelijk richt op hardware. De eisen voor het product zullen door ons eigen bedrijf worden opgesteld en vervolgens worden doorgestuurd naar de ontwikkelaar.
@@ -160,16 +160,16 @@ Doorlopend zal de chatbot moeten worden geupdate zodra er nieuwe verbeterde ai-m
 ##### Dor 
 
 
--  Er zijn plannen en voorwaarden gemaakt door het marketing team voor het ontwikkelen van de app.
+- Er zijn plannen en voorwaarden gemaakt door het marketing team voor het ontwikkelen van de app.
 - contact details voor customer service zijn te vinden in de app
-- raad van commesarisen heeft het plan van de app goed gekeurd
+- Raad van Commissarissen heeft het plan van de app goed gekeurd
 
 ##### Dod
 
 - App is geleverd en alles wat gevraagd was werkt
 - app is live in de app-winkels
 - klanten hebben de app gedownload
-- tevreden reviews op app-winkels
+- positieve beoordelingen in de appstores
 - customer service heeft een lagere werkdruk
 
 #### UMLKlassendiagram
