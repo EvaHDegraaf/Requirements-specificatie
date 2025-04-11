@@ -181,3 +181,31 @@ Doorlopend zal de chatbot moeten worden geupdate zodra er nieuwe verbeterde ai-m
 | **GUide**   | Guide versie                                      | Hoort bij één product                           |
 | **Update**     | versie, beschrijving                             | Hoort bij één product                           |
 | **Chat**       | chatID, inhoud                             | Hoort bij één klant                             |
+
+#### Sitemap 
+
+- Home
+  - Overzicht producten
+  - Meldingen / notificaties
+  - Knop voor Chatbot
+
+- Product pagina
+  - Productspecificaties
+  - Aankoopdatum en garantieperiode
+  - software-updates
+  - Guides over product
+
+- Help
+  - Veelgestelde vragen
+  - Chatbot & Live Chat
+  - contact met klantenservice knop
+
+- Settings
+  - Taalinstellingen
+  - Light of Dark mode
+
+- Account
+  - Gebruikersprofiel
+  - Geregistreerde producten
+
+
