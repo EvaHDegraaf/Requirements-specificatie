@@ -79,7 +79,7 @@ Bij het ontwerp van de app hebben we specifieke doelstellingen geformuleerd, die
 ### _Bedrijfsprocesanalyse_
 
 #### IST
-- Beschrijving: Klanten kunnen contact opnemen met klantenservice indien er porblemen, vragen of klachten zijn.
+- Beschrijving: Klanten kunnen contact opnemen met klantenservice indien er problemen, vragen of klachten zijn.
 - Problemen:
   - Lange wachttijden voor klantservice.
   - Weinig inzicht op klantendata.
@@ -97,7 +97,7 @@ Bij het ontwerp van de app hebben we specifieke doelstellingen geformuleerd, die
 - **Huidige Gap**: Er is geen centrale plaats op mobiel voor klanten om informatie te krijgen over onze producten.
 - **Oplossing**: De app bied klanten meerdere mogelijkheden aan om meer te leren overons product en krijgen nieuws binnen over updates etc.
 
-- **Huidige Gap**: Er is onvoldoende self-service voor klanten, wat leidt tot lange wachttijden bij klantenservice en een hooge werkdruk op medewerkers en meer kosten aan klantenservice.
+- **Huidige Gap**: Er is onvoldoende self-service voor klanten, wat leidt tot lange wachttijden bij klantenservice en een hoge werkdruk op medewerkers en meer kosten aan klantenservice.
 - **Oplossing**: De app biedt pties zoals een AI-chatbot en de mogelijkheid om veelvoorkomende problemen zelf op te lossen voordat een medewerker moet worden gecontacteerd wat geld en tijd bespaard.
 
 #### SIPOC Model
@@ -119,7 +119,7 @@ Bij het ontwerp van de app hebben we specifieke doelstellingen geformuleerd, die
 
 | **COMPETITORS**                                                   | **REVENUE STREAMS**                                                   | **COST FACTORS**                                                                                       | **CHANNELS**                                                                                                  |
 |-------------------------------------------------------------------|----------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|
-| - Concurrenten die ook een app hebben | - meer mensen die intresse hebben in een Solmate product door goede klantrelaties | - Ontwikkelingskosten voor de app, marketing- en verkoopkosten, kosten van klantenservice personeel.   | - App Store en Play Store.|
+| - Concurrenten die ook een app hebben | - meer mensen die interesse hebben in een Solmate product door goede klantrelaties | - Ontwikkelingskosten voor de app, marketing- en verkoopkosten, kosten van klantenservice personeel.   | - App Store en Play Store.|
 
 #### User Stories
 
@@ -129,7 +129,7 @@ Bij het ontwerp van de app hebben we specifieke doelstellingen geformuleerd, die
 
 ##### Acceptatiecriteria
 - updates voor de solmate telefoon
-- Update pushberichten op app
+- Update pushberichten op het app
 
 **Als** klant  
 **wil ik** toegang tot duidelijke guides binnen handberijk over de solmate telefoon
