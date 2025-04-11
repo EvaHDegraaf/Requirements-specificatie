@@ -187,7 +187,11 @@ Bij het ontwerp van de app hebben we specifieke doelstellingen geformuleerd, die
 
 ![ Sitemap ](Sitemap.png)
 
-Bronen; 
-Team; SolMate 
+Bronen; https://canvas.hu.nl/courses/44699
+https://www.perforce.com/blog/alm/how-write-software-requirements-specification-srs-document
+Versietabel; gecomit en teamoverlg erover.
+
+Team;  SolMate 
+
 
 
