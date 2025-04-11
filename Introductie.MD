@@ -8,7 +8,7 @@
 Om als bedrijf onder Phoneventures een app te ontwikkelen waar klanten toegang hebben tot diensten en informatie voor en over de aangekochte telefoon. Wij willen duurzame technologie voor iedereen toegankelijk maken, waarbij de producten goed functioneren en het milieu zo min mogelijk belasten. Bij SolMate combineren we innovatie en milieuvriendelijkheid, zodat klanten technologie kunnen kiezen die hen ondersteunt en de planeet respecteert.
 
 ### _Visie_
-Het verbeteren van klantrelaties en klantervaring dat op termijn zal leiden tot hogere sales, lagere kosten voor customerservice en een concurentievoordeel door innovatieve en klantgerichte oplossingen te bieden.
+Het verbeteren van klantrelaties en klantervaring dat op termijn zal leiden tot hogere sales, lagere kosten voor customerservice en een concurentievoordeel door innovatieve en klantgerichte oplossingen te bieden. Wij streven ernaar om technologie te ontwikkelen die niet alleen vernieuwend is, maar ook duurzaam en verantwoord. SolMate wil de markt leiden met producten die zowel functioneel als milieuvriendelijk zijn, en die klanten de mogelijkheid bieden om technologie te gebruiken die hen ondersteunt en tegelijkertijd de planeet respecteert. Door constant te investeren in onze eigen innovaties, willen we klanten inspireren om bij te dragen aan een groenere toekomst.
 
 ### _Strategie_
 De strategie van Solmate is om het design van de app uit te besteden aan een softwarebedrijf dat gespecialiseerd is in mobiele applicaties, aangezien ons bedrijf zich voornamelijk richt op hardware. De eisen voor het product zullen door ons eigen bedrijf worden opgesteld en vervolgens worden doorgestuurd naar de ontwikkelaar.
