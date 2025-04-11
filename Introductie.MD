@@ -172,5 +172,12 @@ Doorlopend zal de chatbot moeten worden geupdate zodra er nieuwe verbeterde ai-m
 - tevreden reviews op app-winkels
 - customer service heeft een lagere werkdruk
 
+#### UMLKlassendiagram
 
-
+| **Klasse**     | **Belangrijke Attributen**                                | **Relaties**                                    |
+|----------------|------------------------------------------------------------|--------------------------------------------------|
+| **Klant**      | klantID, naam, email                                       | Heeft meerdere producten                        |
+| **Product**    | productID, naam, serienummer, aankoopDatum                 | Hoort bij één klant, heeft garantie & updates   |
+| **GUide**   | Guide versie                                      | Hoort bij één product                           |
+| **Update**     | versie, beschrijving                             | Hoort bij één product                           |
+| **Chat**       | chatID, inhoud                             | Hoort bij één klant                             |
