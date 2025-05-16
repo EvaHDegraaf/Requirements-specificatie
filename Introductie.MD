@@ -39,11 +39,9 @@ Eerst geven we even een korte beschrijving van de verschillende stakeholders:
 | Eindgebruiker          | Klant / gebruiker          | Gebruiksgemak, duurzaamheid, batterijduur                   | Hoog        | Hoog               | Feedbackrondes, testen, enquêtes        |
 | Projectteam            | Ontwikkeling               | Duidelijke eisen, haalbare doelen                           | Hoog        | Hoog               | Dagelijks contact, scrums, reviews       |
 | Product owner          | Richting & planning        | Voldoen aan visie, tijdige oplevering                       | Hoog        | Hoog               | Intensieve samenwerking, roadmap        |
-| Marketingteam          | Promotie & positionering   | Heldere USP’s, klantdata                                    | Middel      | Middel             | Input bij branding, maandelijkse updates |
-| Supportmedewerkers     | Klantenservice             | Eenvoudige support, duidelijkheid voor klanten              | Laag        | Middel             | Training voorafgaand aan lancering      |
-| Zapper chatbot-team    | AI-integratie              | Werkende chatbot, technische samenwerking                   | Middel      | Middel             | Technisch overleg, integratietesten     |
+| Marketingteam          | Promotie & positionering   | Heldere USP’s, klantdata                                    | Middel      | Middel             | Input bij    |
 | Investeerders          | Financiering               | Rendement, groeipotentie                                    | Hoog        | Laag               | Kwartaalrapportage, demo’s              |
-| Distributiepartner     | Logistiek & verkoop        | Betrouwbare levertijden, verkoopbaar product                | Middel      | Laag               | Contractafspraken, statusupdates        |
+     |
 ### _Actoren_
 
 #### 1. **Klanten (Eindgebruikers)**
