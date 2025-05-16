@@ -1,26 +1,26 @@
 # _Requirements-specificatie_
-Welkom bij de requirements specificatie van SolMate, ons innovatieve telefoonbedrijf gespecialiseerd in het ontwikkelen van mobiele telefoons met geintegreerde zonnepaneeltechnologie.
+Welkom bij de requirements specificatie van SolMate, ons innovatieve telefoonbedrijf is gespecialiseerd in het ontwikkelen van mobiele telefoons met geintegreerde zonnepaneeltechnologie.
 
-SolMate speelt in op de hedendaagdse ehoefte aan duurzaamheid, zelfredzaamheid en onafhankelijkheid van het stroomnetwerk. In deze bestanden wordt beschreven hoe en waarom maatwerksystemen passend zijn voor SolMate.
+SolMate speelt in op de hedendaagdse behoefte aan duurzaamheid, zelfredzaamheid en onafhankelijkheid van het stroomnet. In deze bestanden wordt beschreven hoe en waarom maatwerksystemen passend zijn voor SolMate.
 
-Het document dient als leidraad voor zowel de stakeholders als het developmentteam en zorgt voor het omzetten van de behoeften van de organisatie naar concrete modeelen en user stories. 
+Het document dient als leidraad voor zowel de stakeholders als het developmentteam en zorgt voor het omzetten van de behoeften van de organisatie naar concrete modellen en user stories. 
 
 
 ## Organisatorische Context
 
 ### _Missie_
 Wij van SolMate willen mensen wereldwijd de vrijheid bieden om altijd en overal bereikbaar te zijn zonder afhankelijk te zijn van elektrische voorzieningen. 
-Wij zijn gefocused op de ontwikkeling van duurzame telefoons met geintegreerde zonnepaneel techniek. Dit om de duurzaamheid te bevorderen en de ervaring van de klant te vergemakkelijken.
+Wij zijn gefocused op de ontwikkeling van duurzame telefoons met geintegreerde zonnepaneel technologie. Dit om de duurzaamheid te bevorderen en de ervaring van de klant te vergemakkelijken.
 
 ### _Visie_
-Wij streven naar een toekomst waarbij technologie en duurzaamheid hand in hand gaan. Ook werken wij toe naar een positie als marktleider in solar-powered mobiele aparaten om zo een positieve impact af te kunnen dragen op het millieu en het leven van de eindgebruikers
+Wij streven naar een toekomst waarbij technologie en duurzaamheid hand in hand gaan. Ook werken wij toe naar een positie als marktleider in solar-powered mobiele aparaten om zo een positieve impact af te kunnen dragen op het milieu en het leven van de eindgebruikers
 
 ### _Strategie_
 Om zowel de missie als de visie van SolMate te kunnen realiseren richten wij ons op een aantal belangerijke kernpunten: 
-- Duurzaam productontwerp: Door het gebruik van millieuvriendelijke en effiente  materialen leveren wij onze producten met een minimale voetafdruk.
-- Innovatie: Door contunue onderzoek en doorontwikkeling om de nieuwste trends in solar tech bij te houden en bij succes te implementeren.
+- Duurzaam productontwerp: Door het gebruik van milieuvriendelijke en effiente  materialen leveren wij onze producten met een minimale voetafdruk.
+- Innovatie: Wij investeren ontinu in onderzoek en doorontwikkeling om de nieuwste trends in solar tech bij te houden en te implementeren.
 - Gebruiksvriendelijkheid: Een eenvoudige gebruiksvriendelijkheid van de online omgevingen, vanaf de productpagina tot een helpdesk voor problemen is geregeld door een proffesionele AI chatbot, die waar nodig escaleert naar een mederwerker. 
-Gerichte doelgroep: Wij zijnn gericht op een bepaalde groep die extra baat zullen hebben bij onze diensten. Denk hierbij aan reizigers, outdoor liefhebbers en mensen in buitengebieden met beperkte toegang tot electriciteit. 
+Gerichte doelgroep: Wij zijnn gericht op een bepaalde groep die extra baat zal hebben bij onze diensten. Denk hierbij aan reizigers, outdoor liefhebbers en mensen in buitengebieden met beperkte toegang tot electriciteit. 
 ### _Stakeholderanalyse_
 
 Om een maatwerksysteem voor SolMate goed op te kunnen ontwikkelen is het cruciaal om duidelijk in kaart te hbeben welke partijen nou eigenlijk allemaal belangen hebben bij dit project. In deze stakeholderanalyse gaan we alle relevante stakeholders van SolMate identificeren en analyseren. We kijken hierbij naar hun rol, belangen en de invloed die zij hebben op het project. 
