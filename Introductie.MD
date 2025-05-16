@@ -9,7 +9,8 @@ Het document dient als leidraad voor zowel de stakeholders als het developmentte
 ## Organisatorische Context
 
 ### _Missie_
-Om als bedrijf onder Phoneventures een app te ontwikkelen waar klanten toegang hebben tot diensten en informatie voor en over de aangekochte telefoon. Wij willen duurzame technologie voor iedereen toegankelijk maken, waarbij onze producten betrouwbaar zijn en minimale milieu impact hebben. Bij SolMate combineren we innovatie en milieuvriendelijkheid, zodat klanten technologie kunnen kiezen die hen ondersteunt en de planeet respecteert.
+Wij van SolMate willen mensen wereldwijd de vrijheid bieden om altijd en overal bereikbaar te zijn zonder afhankelijk te zijn van elektrische voorzieningen. 
+Wij zijn gefocused op de ontwikkeling van duurzame telefoons met geintegreerde zonnepaneel techniek. Dit om de duurzaamheid te bevorderen en de ervaring van de klant te vergemakkelijken.
 
 ### _Visie_
 Het verbeteren van klantrelaties en klantervaring die op termijn leidt tot hogere omzet, lagere kosten voor customerservice en een concurentievoordeel door innovatieve en klantgerichte oplossingen te bieden. Wij streven ernaar om technologie te ontwikkelen die niet alleen vernieuwend is, maar ook duurzaam en verantwoord. SolMate wil de markt leiden met producten die zowel functioneel als milieuvriendelijk zijn, en die klanten de mogelijkheid bieden om technologie te gebruiken die hen ondersteunt en tegelijkertijd de planeet respecteert. Door constant te investeren in onze eigen innovaties, willen we klanten inspireren om bij te dragen aan een groenere toekomst.
