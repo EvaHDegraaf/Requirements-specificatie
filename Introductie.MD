@@ -4,7 +4,7 @@
 SolMate speelt in op de hedendaagdse ehoefte aan duurzaamheid, zelfredzaamheid en onafhankelijkheid van het stroomnetwerk. In deze bestanden wordt beschreven hoe en waarom maatwerksystemen passend zijn voor SolMate.
 
 Het document dient als leidraad voor zowel de stakeholders als het developmentteam en zorgt voor het omzetten van de behoeften van de organisatie naar concrete modeelen en user stories. 
-
+***
 
 
 ## Organisatorische Context
