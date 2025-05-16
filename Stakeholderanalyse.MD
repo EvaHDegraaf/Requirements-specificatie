@@ -1,3 +1,11 @@
+Om een maatwerksysteem voor SolMate goed op te kunnen ontwikkelen is het cruciaal om duidelijk in kaart te hbeben welke partijen nou eigenlijk allemaal belangen hebben bij dit project. In deze stakeholderanalyse gaan we alle relevante stakeholders van SolMate identificeren en analyseren. We kijken hierbij naar hun rol, belangen en de invloed die zij hebben op het project. 
+
+
+
+
+
+
+
 ### _Stakeholderanalyse_
 
 | Stakeholder              | Belang                                                   | Invloed  | Verwachting / Opmerking                                     |
