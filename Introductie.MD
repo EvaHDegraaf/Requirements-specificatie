@@ -1,5 +1,6 @@
 # _Requirements-specificatie_
 ***Solmate***
+
 Welkom bij de requirements specificatie van SolMate, ons innovatieve telefoonbedrijf is gespecialiseerd in het ontwikkelen van mobiele telefoons met geintegreerde zonnepaneeltechnologie.
 SolMate speelt in op de hedendaagdse behoefte aan duurzaamheid, zelfredzaamheid en onafhankelijkheid van het stroomnet. In deze bestanden wordt beschreven hoe en waarom maatwerksystemen passend zijn voor SolMate.
 Het document dient als leidraad voor zowel de stakeholders als het developmentteam en zorgt voor het omzetten van de behoeften van de organisatie naar concrete modellen en user stories.
