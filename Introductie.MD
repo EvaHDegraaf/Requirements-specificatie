@@ -13,7 +13,7 @@ Wij van SolMate willen mensen wereldwijd de vrijheid bieden om altijd en overal 
 Wij zijn gefocused op de ontwikkeling van duurzame telefoons met geintegreerde zonnepaneel techniek. Dit om de duurzaamheid te bevorderen en de ervaring van de klant te vergemakkelijken.
 
 ### _Visie_
-Het verbeteren van klantrelaties en klantervaring die op termijn leidt tot hogere omzet, lagere kosten voor customerservice en een concurentievoordeel door innovatieve en klantgerichte oplossingen te bieden. Wij streven ernaar om technologie te ontwikkelen die niet alleen vernieuwend is, maar ook duurzaam en verantwoord. SolMate wil de markt leiden met producten die zowel functioneel als milieuvriendelijk zijn, en die klanten de mogelijkheid bieden om technologie te gebruiken die hen ondersteunt en tegelijkertijd de planeet respecteert. Door constant te investeren in onze eigen innovaties, willen we klanten inspireren om bij te dragen aan een groenere toekomst.
+Wij streven naar een toekomst waarbij technologie en duurzaamheid hand in hand gaan. Ook werken wij toe naar een positie als marktleider in solar-powered mobiele aparaten om zo een positieve impact af te kunnen dragen op het millieu en het leven van de eindgebruikers
 
 ### _Strategie_
 De strategie van Solmate is om het design van de app uit te besteden aan een softwarebedrijf dat gespecialiseerd is in mobiele applicaties, aangezien ons bedrijf zich voornamelijk richt op hardware. De eisen voor het product zullen door ons eigen bedrijf worden opgesteld en vervolgens worden doorgestuurd naar de ontwikkelaar.
