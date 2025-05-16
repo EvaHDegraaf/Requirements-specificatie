@@ -42,7 +42,9 @@ Eerst geven we even een korte beschrijving van de verschillende stakeholders:
 | Marketingteam          | Promotie & positionering   | Heldere USP’s, klantdata                                    | Middel      | Middel             | Input bij    |
 | Investeerders          | Financiering               | Rendement, groeipotentie                                    | Hoog        | Laag               | Kwartaalrapportage, demo’s              |
      |
-### _Organogram
+### Organogram
+
+Dit is onze organogram die weergeeft hoe onze organisatie in elkaar steekt. SolMate is natuurlijk een klein bedrijf met een klein aantal werknemers vandaar dat de 
 <pre>
                             CEO
                              |
@@ -53,6 +55,11 @@ Eerst geven we even een korte beschrijving van de verschillende stakeholders:
                                               HR
 </pre>
 
+Legenda: 
+De CEO (Chief Executive Officer) staat bovenaan en is eindverantwoordelijk.
+	•	De CFO (Chief Financial Officer) beheert de financiën.
+	•	De COO (Chief Operating Officer) is verantwoordelijk voor de operaties.
+	•	Marketing valt direct onder de CEO en stuurt HR aan 
 
 ### _Actoren_
 
