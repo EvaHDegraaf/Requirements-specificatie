@@ -23,6 +23,9 @@ Om zowel de missie als de visie van SolMate te kunnen realiseren richten wij ons
 Gerichte doelgroep: Wij zijnn gericht op een bepaalde groep die extra baat zullen hebben bij onze diensten. Denk hierbij aan reizigers, outdoor liefhebbers en mensen in buitengebieden met beperkte toegang tot electriciteit. 
 ### _Stakeholderanalyse_
 
+Om een maatwerksysteem voor SolMate goed op te kunnen ontwikkelen is het cruciaal om duidelijk in kaart te hbeben welke partijen nou eigenlijk allemaal belangen hebben bij dit project. In deze stakeholderanalyse gaan we alle relevante stakeholders van SolMate identificeren en analyseren. We kijken hierbij naar hun rol, belangen en de invloed die zij hebben op het project. 
+
+
 | Stakeholder              | Belang                                                   | Invloed  | Verwachting / Opmerking                                     |
 |--------------------------|----------------------------------------------------------|----------|-------------------------------------------------------------|
 | **Raad van Commissarissen**  |  klantloyaliteit, besparing op klantenservice                                     | Hoog     | Verwacht strategisch rendement en rapportage               |
