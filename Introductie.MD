@@ -42,6 +42,18 @@ Eerst geven we even een korte beschrijving van de verschillende stakeholders:
 | Marketingteam          | Promotie & positionering   | Heldere USP’s, klantdata                                    | Middel      | Middel             | Input bij    |
 | Investeerders          | Financiering               | Rendement, groeipotentie                                    | Hoog        | Laag               | Kwartaalrapportage, demo’s              |
      |
+### _Organogram
+<pre>
+                            CEO
+                             |
+        +--------------------+--------------------+
+        |                    |                    |
+      CFO                  COO              Marketing
+                                               |
+                                              HR
+</pre>
+
+
 ### _Actoren_
 
 #### 1. **Klanten (Eindgebruikers)**
