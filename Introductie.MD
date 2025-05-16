@@ -25,6 +25,12 @@ Gerichte doelgroep: Wij zijnn gericht op een bepaalde groep die extra baat zulle
 
 Om een maatwerksysteem voor SolMate goed op te kunnen ontwikkelen is het cruciaal om duidelijk in kaart te hbeben welke partijen nou eigenlijk allemaal belangen hebben bij dit project. In deze stakeholderanalyse gaan we alle relevante stakeholders van SolMate identificeren en analyseren. We kijken hierbij naar hun rol, belangen en de invloed die zij hebben op het project. 
 
+Eerst geven we even een korte beschrijving van de verschillende stakeholders:
+- Eindgebruiker: De meest belangrijke stakeholder van SolMate is natuurlijk de klant, oftewel de eindgebruiker. Zij hebben het grootste directe belang bij het gebruiksgemak, duurzaamheid en de betrouwbaarheid van de producten. Ook is feedback van deze groep enorm waardevol voor de doorontwikkelingen van de producten. 
+- Ontwikkelaars: De ontwikkelaars zijn verantwoordelijk voor het daadwerkelijk realiseren van het systeem. Voor hen is het belangrijk om duidelijke eisen te hebben om zo de technische haalbaarheid in te schatten.
+- Product Owner: De procut woner bewaakt de visie van SolMate en vertaald de verschillende wensen van de stakeholders naar realistische user stories.
+- Marketing: Het marketingteam heeft ook belang bij heldere USP's en toegang tot klantinzichten om zo SolMate het best te kunnen promoten. 
+
 
 | Stakeholder              | Belang                                                   | Invloed  | Verwachting / Opmerking                                     |
 |--------------------------|----------------------------------------------------------|----------|-------------------------------------------------------------|
