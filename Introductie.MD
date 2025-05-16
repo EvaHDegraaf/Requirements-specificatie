@@ -16,15 +16,11 @@ Wij zijn gefocused op de ontwikkeling van duurzame telefoons met geintegreerde z
 Wij streven naar een toekomst waarbij technologie en duurzaamheid hand in hand gaan. Ook werken wij toe naar een positie als marktleider in solar-powered mobiele aparaten om zo een positieve impact af te kunnen dragen op het millieu en het leven van de eindgebruikers
 
 ### _Strategie_
-De strategie van Solmate is om het design van de app uit te besteden aan een softwarebedrijf dat gespecialiseerd is in mobiele applicaties, aangezien ons bedrijf zich voornamelijk richt op hardware. De eisen voor het product zullen door ons eigen bedrijf worden opgesteld en vervolgens worden doorgestuurd naar de ontwikkelaar.
-Bij het ontwerp van de app hebben we specifieke doelstellingen geformuleerd, die hieronder worden toegelicht. Om deze doelstellingen te behalen, zullen we onder andere etiketten uitsturen via e-mail en de app-data analyseren om te controleren of alle functies daadwerkelijk door de klant worden benut.
-
-#### Doelstellingen
-- **Binnen 5 maanden:** De app moet door minstens 100.000 klanten gedownload zijn, wat bijdraagt aan een brede klantacceptatie en het vergroten van de merkbekendheid.
-- **Binnen 1 jaar:** De app moet 30% van de klantenservice-uitgaven besparen door efficiënt gebruik van self-service functies, waaronder de AI-chatbot.
-- **Binnen 3 jaar:** De app moet minstens 10% van de klanten van SolMate actief gebruiken, waardoor het klantengagement significant toeneemt.
-- **Doorlopend:** De AI-chatbot moet regelmatig worden geüpdatet om gebruik te maken van de nieuwste verbeterde AI-modellen, zodat de klantbeleving continu verbetert.
-
+Om zowel de missie als de visie van SolMate te kunnen realiseren richten wij ons op een aantal belangerijke kernpunten: 
+- Duurzaam productontwerp: Door het gebruik van millieuvriendelijke en effiente  materialen leveren wij onze producten met een minimale voetafdruk.
+- Innovatie: Door contunue onderzoek en doorontwikkeling om de nieuwste trends in solar tech bij te houden en bij succes te implementeren.
+- Gebruiksvriendelijkheid: Een eenvoudige gebruiksvriendelijkheid van de online omgevingen, vanaf de productpagina tot een helpdesk voor problemen is geregeld door een proffesionele AI chatbot, die waar nodig escaleert naar een mederwerker. 
+Gerichte doelgroep: Wij zijnn gericht op een bepaalde groep die extra baat zullen hebben bij onze diensten. Denk hierbij aan reizigers, outdoor liefhebbers en mensen in buitengebieden met beperkte toegang tot electriciteit. 
 ### _Stakeholderanalyse_
 
 | Stakeholder              | Belang                                                   | Invloed  | Verwachting / Opmerking                                     |
