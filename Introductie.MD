@@ -30,17 +30,20 @@ Eerst geven we even een korte beschrijving van de verschillende stakeholders:
 - Ontwikkelaars: De ontwikkelaars zijn verantwoordelijk voor het daadwerkelijk realiseren van het systeem. Voor hen is het belangrijk om duidelijke eisen te hebben om zo de technische haalbaarheid in te schatten.
 - Product Owner: De procut woner bewaakt de visie van SolMate en vertaald de verschillende wensen van de stakeholders naar realistische user stories.
 - Marketing: Het marketingteam heeft ook belang bij heldere USP's en toegang tot klantinzichten om zo SolMate het best te kunnen promoten. 
+- Investeerders: Deze mensen hebben geld gestoken in SolMate en verwachten dus ook een groei van het bedrijf met het bijbehorende rendement
 
+### 📊 Stakeholderanalyse – SolMate
 
-| Stakeholder              | Belang                                                   | Invloed  | Verwachting / Opmerking                                     |
-|--------------------------|----------------------------------------------------------|----------|-------------------------------------------------------------|
-| **Raad van Commissarissen**  |  klantloyaliteit, besparing op klantenservice                                     | Hoog     | Verwacht strategisch rendement en rapportage               |
-| **CEO / Management**        | Succesvolle implementatie, tevreden klanten, winstgevendheid | Hoog     | Behoefte aan strategische beslissingen en transparantie     |
-| **Marketing**               | Meer klantbetrokkenheid, klantendata                 | Middel   | Verwacht analysefuncties en promotiemogelijkheden           |
-| **Klantenservice**          | Minder druk door self-service      | Laag     | Verwacht heldere structuur voor klanten                     |        |
-| **Klanten (eindgebruikers)**| Gebruiksvriendelijke app,  toegevoegde waarde    | Middel   | Verwacht gemak, duidelijkheid, veiligheid                   |
-| **Externe softwarebedrijf** | Duidelijke specificaties, betaalde opdracht              | Hoog     | Verwacht concrete eisen en feedback                        |
-
+| **Stakeholder**        | **Rol**                   | **Belangen**                                                | **Invloed** | **Betrokkenheid** | **Communicatiestrategie**              |
+|------------------------|---------------------------|-------------------------------------------------------------|-------------|--------------------|-----------------------------------------|
+| Eindgebruiker          | Klant / gebruiker          | Gebruiksgemak, duurzaamheid, batterijduur                   | Hoog        | Hoog               | Feedbackrondes, testen, enquêtes        |
+| Projectteam            | Ontwikkeling               | Duidelijke eisen, haalbare doelen                           | Hoog        | Hoog               | Dagelijks contact, scrums, reviews       |
+| Product owner          | Richting & planning        | Voldoen aan visie, tijdige oplevering                       | Hoog        | Hoog               | Intensieve samenwerking, roadmap        |
+| Marketingteam          | Promotie & positionering   | Heldere USP’s, klantdata                                    | Middel      | Middel             | Input bij branding, maandelijkse updates |
+| Supportmedewerkers     | Klantenservice             | Eenvoudige support, duidelijkheid voor klanten              | Laag        | Middel             | Training voorafgaand aan lancering      |
+| Zapper chatbot-team    | AI-integratie              | Werkende chatbot, technische samenwerking                   | Middel      | Middel             | Technisch overleg, integratietesten     |
+| Investeerders          | Financiering               | Rendement, groeipotentie                                    | Hoog        | Laag               | Kwartaalrapportage, demo’s              |
+| Distributiepartner     | Logistiek & verkoop        | Betrouwbare levertijden, verkoopbaar product                | Middel      | Laag               | Contractafspraken, statusupdates        |
 ### _Actoren_
 
 #### 1. **Klanten (Eindgebruikers)**
