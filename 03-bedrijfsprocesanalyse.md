@@ -63,7 +63,7 @@ SolMate wil een mobiele applicatie ontwikkelen om de klanttevredenheid te verhog
 ```mermaid
 graph TD
     A[Klacht of vraag] --> B[App geopend door klant]
-    B --> C[Gebruik AI-chatbot]
+    B --> C[Gebruik AI chatbot]
     C -->|Antwoord gevonden| D[Probleem opgelost]
     C -->|Geen oplossing| E[Contact met medewerker]
     E --> F[Ticket aangemaakt door klantenservice]
