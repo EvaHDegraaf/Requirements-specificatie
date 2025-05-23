@@ -1,15 +1,16 @@
-solmate-app-requirements/
-│
-├── README.md                          → Korte uitleg en linkjes naar alle onderdelen
-│
-├── 01-organisatorische-context.md    → Missie, visie, strategie, doelstellingen, organogram, stakeholderanalyse
-├── 02-actoren.md                     → Overzicht van actoren en hun rollen in het systeem
-├── 03-bedrijfsprocesanalyse.md       → SIPOC + Ist / Soll / Knelpunten / GAP
-├── 04-productvisie.md                → Ingevuld Product Vision Board
-├── 05-user-stories.md                → User stories met acceptatiecriteria + schatting
-├── 06-dor-dod.md                     → (Optioneel) Definition of Ready / Done
-├── 07-domeinmodel.md                 → Uitleg domein + UML-klassendiagram
-├── 08-sitemap.md                     → Sitemap van de app
-├── 09-wireframes.md                  → Wireframes met uitleg van belangrijkste flows
-│
-└── /media/                           → Afbeeldingen zoals wireframes, diagrammen, organogram etc.
+# SolMate App – Requirementsdocumentatie
+
+Welkom bij de technische documentatie van de SolMate-app.  
+Hier vind je alle onderdelen die nodig zijn om het systeem goed te begrijpen en te ontwikkelen.
+
+## 📂 Inhoud
+
+- [Organisatorische context](01-organisatorische-context.md)
+- [Actoren van het systeem](02-actoren.md)
+- [Bedrijfsprocesanalyse (SIPOC, Ist/Soll)](03-bedrijfsprocesanalyse.md)
+- [Productvisie](04-productvisie.md)
+- [User Stories + Acceptatiecriteria](05-user-stories.md)
+- [Definition of Ready & Done](06-dor-dod.md)
+- [Domeinmodel & UML-klassendiagram](07-domeinmodel.md)
+- [Sitemap](08-sitemap.md)
+- [Wireframes](09-wireframes.md)
