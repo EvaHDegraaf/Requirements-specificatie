@@ -1,7 +1,7 @@
 # User Stories voor SolMate App
 
 ## Introductie
-Deze user stories beschrijven de belangrijkste functionaliteiten voor de eerste versie (MVP) van de SolMate app. Het doel is om klanten een eenvoudige, snelle en gebruiksvriendelijke app te bieden waarmee zij hun producten kunnen registreren, hulp kunnen krijgen via een AI-chatbot, en updates ontvangen. De MVP richt zich op het leveren van maximale waarde met minimale ontwikkeltijd.
+Deze user stories beschrijven de belangrijkste functionaliteiten voor de eerste versie (MVP) van de SolMate app. Het doel is om klanten een eenvoudige, snelle en gebruiksvriendelijke app te bieden waarmee zij hun producten kunnen registreren, hulp kunnen krijgen via een AI chatbot, en updates ontvangen. De MVP richt zich op het leveren van maximale waarde met minimale ontwikkeltijd.
 
 ---
 
@@ -21,7 +21,7 @@ Deze user stories beschrijven de belangrijkste functionaliteiten voor de eerste 
 
 ---
 
-### User Story 2: AI-chatbot voor FAQ
+### User Story 2: AI chatbot voor FAQ
 **Als** klant  
 **wil ik** snel antwoord krijgen op veelgestelde vragen via een AI-chatbot  
 **zodat** ik niet telkens contact hoef te zoeken met de klantenservice.  
