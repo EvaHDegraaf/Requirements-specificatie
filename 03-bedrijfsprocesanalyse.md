@@ -35,12 +35,14 @@ SolMate wil een mobiele applicatie ontwikkelen om de klanttevredenheid te verhog
 ### GAP Analyse
 In het onderstaande overzicht analyseren we de kloof (GAP) tussen de huidige situatie (IST) en de gewenste situatie (SOLL). We tonen welke knelpunten er zijn en welke concrete oplossingen de app van SolMate hiervoor biedt. Deze analyse helpt bij het bepalen waar de grootste winst te behalen valt met het nieuwe systeem
 
-| Huidige Knelpunten                        | Oplossing via App                                                       |
-| ----------------------------------------- | ----------------------------------------------------------------------- |
-| Geen centrale plek voor productinformatie | App centraliseert alle klantinformatie en updates over producten        |
-| Lange wachttijden bij klantenservice      | AI chatbot beantwoordt veel vragen automatisch                          |
-| Hoge werkdruk op medewerkers              | Self service via app verlaagt de noodzaak voor direct menselijk contact |
-| Weinig inzicht in klantbehoeften          | App verzamelt data over klantinteracties                                |
+```mermaid
+graph TD
+    A[Geen centrale plek voor productinformatie] --> A1[App centraliseert alle klantinformatie en updates]
+    B[Lange wachttijden bij klantenservice] --> B1[AI chatbot beantwoordt veel vragen automatisch]
+    C[Hoge werkdruk op medewerkers] --> C1[Self service via app verlaagt noodzaak voor menselijk contact]
+    D[Weinig inzicht in klantbehoeften] --> D1[App verzamelt data over klantinteracties]
+```
+
 
 ---
 
