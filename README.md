@@ -1,6 +1,6 @@
 # SolMate App – Requirementsdocumentatie
 
-Welkom bij de technische documentatie van de SolMate-app.  
+Welkom bij de technische documentatie van de SolMate app.  
 Hier vind je alle onderdelen die nodig zijn om het systeem goed te begrijpen en te ontwikkelen.
 
 ## 📂 Inhoud
