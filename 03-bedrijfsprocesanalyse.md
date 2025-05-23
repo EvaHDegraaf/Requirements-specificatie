@@ -48,16 +48,6 @@ In het onderstaande overzicht analyseren we de kloof (GAP) tussen de huidige sit
 
 Om beter inzicht te krijgen in het klantondersteuningsproces, gebruiken we het SIPOC-model. Dit model toont de belangrijkste onderdelen van het proces van klacht tot oplossing, en laat zien wie betrokken zijn bij elke stap.
 
-```plaintext
-+-------------+------------------------------+--------------------------------------------------+-----------------------------------------+------------------------------------------------+
-| Suppliers   | Inputs                       | Process                                          | Outputs                                 | Customers                                      |
-+-------------+------------------------------+--------------------------------------------------+-----------------------------------------+------------------------------------------------+
-| Klanten     | Vraag of klacht              | Klant opent app > gebruikt AI-chatbot           | Antwoord, informatie, of contactaanvraag| Klanten met geregistreerde producten          |
-| Marketing   | Eisen en content voor app    | Marketing communiceert contentbehoeften         | Gepersonaliseerde berichten in de app   | Gebruikers van de app                         |
-| Softwarebedrijf | Technische specificaties  | Ontwikkeling en implementatie van de app        | Werkende app                            | SolMate & Klanten                             |
-| Klantenservice | Klantinteractie             | Analyseren van klantdata via app                | Verbeterde servicekwaliteit             | Klanten, management                           |
-+-------------+------------------------------+--------------------------------------------------+-----------------------------------------+------------------------------------------------+
-```
 ![SIPOC Diagram](SIPOC_diagram.png)
 
 
