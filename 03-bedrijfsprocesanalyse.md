@@ -33,6 +33,7 @@ SolMate wil een mobiele applicatie ontwikkelen om de klanttevredenheid te verhog
 ---
 
 ### GAP Analyse
+In het onderstaande overzicht analyseren we de kloof (GAP) tussen de huidige situatie (IST) en de gewenste situatie (SOLL). We tonen welke knelpunten er zijn en welke concrete oplossingen de app van SolMate hiervoor biedt. Deze analyse helpt bij het bepalen waar de grootste winst te behalen valt met het nieuwe systeem
 
 | Huidige Knelpunten                        | Oplossing via App                                                       |
 | ----------------------------------------- | ----------------------------------------------------------------------- |
@@ -61,6 +62,7 @@ Om beter inzicht te krijgen in het klantondersteuningsproces, gebruiken we het S
 ---
 
 ### Visualisatie
+De onderstaande visualisatie biedt een schematisch overzicht van het huidige (IST) en gewenste (SOLL) klantondersteuningsproces. Deze tekening maakt in een oogopslag duidelijk waar knelpunten zitten, en hoe het nieuwe systeem deze gaat aanpakken. Dit helpt stakeholders en ontwikkelaars om de impact van de verandering te begrijpen.
 
 ```mermaid
 graph TD
