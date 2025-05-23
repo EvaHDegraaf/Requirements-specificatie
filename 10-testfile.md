@@ -1,7 +1,8 @@
+```mermaid
 graph TD
-    K1[❌ Geen centrale plek voor productinformatie] --> O1[✅ App centraliseert alle klantinformatie en updates]
-    K2[❌ Lange wachttijden bij klantenservice] --> O2[✅ AI-chatbot beantwoordt veel vragen automatisch]
-    K3[❌ Hoge werkdruk op medewerkers] --> O3[✅ Self-service via app verlaagt noodzaak voor menselijk contact]
-    K4[❌ Weinig inzicht in klantbehoeften] --> O4[✅ App verzamelt data over klantinteracties]
-
+    A[Geen centrale plek voor productinformatie] --> A1[App centraliseert alle klantinformatie en updates]
+    B[Lange wachttijden bij klantenservice] --> B1[AI chatbot beantwoordt veel vragen automatisch]
+    C[Hoge werkdruk op medewerkers] --> C1[Self-service via app verlaagt noodzaak voor menselijk contact]
+    D[Weinig inzicht in klantbehoeften] --> D1[App verzamelt data over klantinteracties]
+```
 
