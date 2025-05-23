@@ -21,11 +21,11 @@ SolMate wil een mobiele applicatie ontwikkelen om de klanttevredenheid te verhog
 
 ### SOLL (Gewenste situatie)
 
-**Beschrijving:** Klanten gebruiken de mobiele app om direct antwoord te krijgen via een AI-chatbot, toegang te krijgen tot handleidingen, de status van hun producten te controleren, productupdates te lezen, en indien nodig contact op te nemen met een medewerker.
+**Beschrijving:** Klanten gebruiken de mobiele app om direct antwoord te krijgen via een AI chatbot, toegang te krijgen tot handleidingen, de status van hun producten te controleren, productupdates te lezen, en indien nodig contact op te nemen met een medewerker.
 
 **Verbetermogelijkheden:**
 
-* 24/7 service via AI-chatbot.
+* 24/7 service via AI chatbot.
 * Klanten kunnen veelvoorkomende problemen zelfstandig oplossen.
 * Minder druk op klantenservice.
 * Meer klantinzicht via app-data.
