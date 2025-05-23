@@ -7,7 +7,7 @@ In een systeemontwikkeling onderscheiden we **stakeholders** en **actoren**:
 - **Stakeholders** zijn alle betrokkenen bij het project: ze hebben belang bij het succes ervan, maar werken niet altijd direct met het systeem.
 - **Actoren** zijn de mensen of systemen die daadwerkelijk **interactie hebben met de app** of andere onderdelen van het systeem. Ze voeren handelingen uit of ontvangen informatie.
 
-In dit document beschrijven we de belangrijkste **actoren** van het te ontwikkelen SolMate-systeem: wie ze zijn, wat hun rol is en wat ze nodig hebben om goed met het systeem te kunnen werken.
+In dit document beschrijven we de belangrijkste **actoren** van het te ontwikkelen SolMate systeem: wie ze zijn, wat hun rol is en wat ze nodig hebben om goed met het systeem te kunnen werken.
 
 ---
 
@@ -20,7 +20,7 @@ In dit document beschrijven we de belangrijkste **actoren** van het te ontwikkel
 - Aanvragen van garantie of reparatie
 - Bekijken van handleidingen en statusupdates
 - Ontvangen van gepersonaliseerde tips en aanbiedingen
-- Chatten met de AI-assistent
+- Chatten met de AI assistent
 
 **Behoeften**:
 - Een eenvoudige, intuïtieve app-interface
@@ -36,7 +36,7 @@ In dit document beschrijven we de belangrijkste **actoren** van het te ontwikkel
 **Belangrijkste interacties**:
 - Ontvangen van technische eisen en user stories
 - Ontwikkelen en testen van de app
-- Communicatie met het SolMate-team over updates
+- Communicatie met het SolMate team over updates
 
 **Behoeften**:
 - Heldere, complete specificaties en feedback
@@ -100,7 +100,7 @@ In dit document beschrijven we de belangrijkste **actoren** van het te ontwikkel
 
 **Behoeften**:
 - Snel toegang tot klantinformatie
-- Vermindering van werkdruk door goede self-servicefuncties in de app
+- Vermindering van werkdruk door goede self servicefuncties in de app
 - Integratie van contacthistorie met andere systemen
 
 ---
@@ -116,7 +116,7 @@ In dit document beschrijven we de belangrijkste **actoren** van het te ontwikkel
 
 **Behoeften**:
 - Regelmatige updates met nieuwe antwoorden
-- Duidelijke fallback-logica wanneer een klant echte hulp nodig heeft
+- Duidelijke fallback logica wanneer een klant echte hulp nodig heeft
 
 ---
 
