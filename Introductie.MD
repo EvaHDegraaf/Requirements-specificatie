@@ -25,6 +25,12 @@ Bij het ontwerp van de app hebben we specifieke doelstellingen geformuleerd, die
 - **Binnen 3 jaar:** De app moet minstens 10% van de klanten van SolMate actief gebruiken, waardoor het klantengagement significant toeneemt.
 - **Doorlopend:** De AI-chatbot moet regelmatig worden geüpdatet om gebruik te maken van de nieuwste verbeterde AI-modellen, zodat de klantbeleving continu verbetert.
 
+### Waarom deze doelstellingen?
+Deze doelen zijn niet zomaar gekozen. We hebben gekeken naar hoe andere bedrijven met succes apps gebruiken, wat onze klanten belangrijk vinden, en wat wij als bedrijf willen bereiken. We willen groeien, een goede naam opbouwen en klanten op een slimme en duurzame manier helpen. Daarom zijn deze doelen realistisch, meetbaar en passen ze goed bij onze missie.
+ We willen met deze app dus niet alleen onze service verbeteren, maar ook onze plek op de markt versterken en laten zien dat duurzaamheid en technologie goed samen kunnen gaan.
+
+
+
 ### _Stakeholderanalyse_
 
 | Stakeholder              | Belang                                                   | Invloed  | Verwachting / Opmerking                                     |
