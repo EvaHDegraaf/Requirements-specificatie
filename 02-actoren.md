@@ -59,7 +59,7 @@ In dit document beschrijven we de belangrijkste **actoren** van het te ontwikkel
 
 ---
 
-## 🧑‍💼 4. Management (CEO / Projectleiding)
+## 4. Management (CEO / Projectleiding)
 
 **Beschrijving**: Het uitvoerend team binnen PhoneVentures dat het project leidt.  
 **Rol**: Projectuitvoerder / Strategie  
@@ -105,7 +105,7 @@ In dit document beschrijven we de belangrijkste **actoren** van het te ontwikkel
 
 ---
 
-## 7. AI-Chatbot
+## 7. AI Chatbot
 
 **Beschrijving**: Virtuele assistent die klanten helpt binnen de app.  
 **Rol**: Geautomatiseerde hulp  
