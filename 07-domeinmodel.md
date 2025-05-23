@@ -1,2 +1,6 @@
-![UML_Klassendiagram](UML_Klassendiagram.png)
+![Domeinmodel](Domeinmodel.png)
+
+
+
+![UML Klassendiagram](UML_Klassendiagram.png)
 
