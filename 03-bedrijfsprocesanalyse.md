@@ -1,1 +1,78 @@
+## Bedrijfsprocesanalyse – SolMate
+
+### Inleiding
+
+SolMate wil een mobiele applicatie ontwikkelen om de klanttevredenheid te verhogen, de werkdruk op de klantenservice te verminderen en de communicatie tussen klant en bedrijf te verbeteren. Momenteel verloopt klantcontact voornamelijk via traditionele kanalen zoals e-mail en telefoon. In deze analyse onderzoeken we het bestaande proces (IST), het gewenste proces (SOLL), de knelpunten (GAP) en gebruiken we een SIPOC-model om het klantondersteuningsproces te visualiseren.
+
+---
+
+### IST (Huidige situatie)
+
+**Beschrijving:** Klanten nemen contact op met de klantenservice via telefoon of e-mail voor vragen, klachten of technische problemen.
+
+**Problemen:**
+
+* Lange wachttijden bij klantenservice.
+* Weinig inzicht in klantendata en veel handmatig werk.
+* Hoge personeelskosten.
+* Gebrek aan 24/7 ondersteuning.
+
+---
+
+### SOLL (Gewenste situatie)
+
+**Beschrijving:** Klanten gebruiken de mobiele app om direct antwoord te krijgen via een AI-chatbot, toegang te krijgen tot handleidingen, de status van hun producten te controleren, productupdates te lezen, en indien nodig contact op te nemen met een medewerker.
+
+**Verbetermogelijkheden:**
+
+* 24/7 service via AI-chatbot.
+* Klanten kunnen veelvoorkomende problemen zelfstandig oplossen.
+* Minder druk op klantenservice.
+* Meer klantinzicht via app-data.
+
+---
+
+### GAP Analyse
+
+| Huidige Knelpunten                        | Oplossing via App                                                       |
+| ----------------------------------------- | ----------------------------------------------------------------------- |
+| Geen centrale plek voor productinformatie | App centraliseert alle klantinformatie en updates over producten        |
+| Lange wachttijden bij klantenservice      | AI chatbot beantwoordt veel vragen automatisch                          |
+| Hoge werkdruk op medewerkers              | Self service via app verlaagt de noodzaak voor direct menselijk contact |
+| Weinig inzicht in klantbehoeften          | App verzamelt data over klantinteracties                                |
+
+---
+
+### SIPOC-Model – Klantondersteuning via de App
+
+```plaintext
++-------------+------------------------------+--------------------------------------------------+-----------------------------------------+------------------------------------------------+
+| Suppliers   | Inputs                       | Process                                          | Outputs                                 | Customers                                      |
++-------------+------------------------------+--------------------------------------------------+-----------------------------------------+------------------------------------------------+
+| Klanten     | Vraag of klacht              | Klant opent app > gebruikt AI-chatbot           | Antwoord, informatie, of contactaanvraag| Klanten met geregistreerde producten          |
+| Marketing   | Eisen en content voor app    | Marketing communiceert contentbehoeften         | Gepersonaliseerde berichten in de app   | Gebruikers van de app                         |
+| Softwarebedrijf | Technische specificaties  | Ontwikkeling en implementatie van de app        | Werkende app                            | SolMate & Klanten                             |
+| Klantenservice | Klantinteractie             | Analyseren van klantdata via app                | Verbeterde servicekwaliteit             | Klanten, management                           |
++-------------+------------------------------+--------------------------------------------------+-----------------------------------------+------------------------------------------------+
+```
+
+---
+
+### Visualisatie
+
+```mermaid
+graph TD
+    A[Klacht of vraag] --> B[App geopend door klant]
+    B --> C[Gebruik AI-chatbot]
+    C -->|Antwoord gevonden| D[Probleem opgelost]
+    C -->|Geen oplossing| E[Contact met medewerker]
+    E --> F[Ticket aangemaakt door klantenservice]
+    F --> G[Feedback in app verwerkt]
+```
+
+---
+
+### Conclusie
+
+Het huidige klantondersteuningsproces is inefficiënt en kostbaar. Door het proces te digitaliseren via een mobiele app, verhoogt SolMate niet alleen de klanttevredenheid, maar verlaagt het ook structureel de kosten. De SIPOC-analyse en GAP-analyse bieden handvatten om dit procesdoelgericht in te richten.
 
