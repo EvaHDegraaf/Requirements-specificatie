@@ -1,4 +1,4 @@
-# Actoren van het SolMate-systeem
+# Actoren van het SolMate systeem
 
 ## Wat zijn actoren?
 
