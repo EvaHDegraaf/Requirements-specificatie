@@ -1,14 +1,16 @@
 graph TD
-    A[Homepagina] --> B[Productinformatie]
-    A --> C[Chatbot]
-    A --> D[Handleiding (Guide)]
-    A --> E[Updates]
-    A --> F[Contact met klantenservice]
-    A --> G[Profielpagina]
+    A[🏠 Homepagina] --> B[📦 Productinformatie]
+    A --> C[🤖 AI Chatbot]
+    A --> D[📘 Handleiding (Guide)]
+    A --> E[🔔 Updates]
+    A --> F[📞 Klantenservice]
+    A --> G[👤 Profielpagina]
 
-    C --> H[Veelgestelde vragen]
-    C --> I[Vraag stellen]
-    F --> J[Ticket aanmaken]
-    F --> K[Live chat of e-mail]
-    G --> L[Instellingen]
-    G --> M[Productregistratie]
+    C --> C1[❓ Veelgestelde vragen]
+    C --> C2[💬 Vraag stellen]
+
+    F --> F1[📝 Ticket aanmaken]
+    F --> F2[📧 Live chat / E-mail]
+
+    G --> G1[⚙️ Instellingen]
+    G --> G2[🖊️ Product registreren]
