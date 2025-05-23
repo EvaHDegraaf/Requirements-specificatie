@@ -58,52 +58,6 @@ Om beter inzicht te krijgen in het klantondersteuningsproces, gebruiken we het S
 | Klantenservice | Klantinteractie             | Analyseren van klantdata via app                | Verbeterde servicekwaliteit             | Klanten, management                           |
 +-------------+------------------------------+--------------------------------------------------+-----------------------------------------+------------------------------------------------+
 ```
-flowchart LR
-    subgraph S[Suppliers]
-        K[Klanten]
-        M[Marketing]
-        SW[Softwarebedrijf]
-        CS[Klantenservice]
-    end
-
-    subgraph I[Inputs]
-        VK[Vraag of klacht]
-        EC[Eisen en content]
-        TS[Technische specificaties]
-        KI[Klantinteractie]
-    end
-
-    subgraph P[Process]
-        UAC[App openen door klant]
-        UC[Gebruik AI-chatbot]
-        MCC[Marketing communiceert content]
-        DEV[Ontwikkeling en implementatie app]
-        AKD[Analyse klantdata]
-    end
-
-    subgraph O[Outputs]
-        AIC[Antwoord/informatie/contact]
-        GB[Gepersonaliseerde berichten]
-        WA[Werkende app]
-        VSQ[Verbeterde servicekwaliteit]
-    end
-
-    subgraph C[Customers]
-        KR[Klanten met geregistreerde producten]
-        GU[Gebruikers van de app]
-        SM[SolMate & klanten]
-        MG[Management]
-    end
-
-    K --> VK --> UAC
-    UAC --> UC --> AIC --> KR
-
-    M --> EC --> MCC --> GB --> GU
-
-    SW --> TS --> DEV --> WA --> SM
-
-    CS --> KI --> AKD --> VSQ --> MG
-
 
 ---
 
