@@ -47,7 +47,6 @@ In het onderstaande overzicht analyseren we de kloof (GAP) tussen de huidige sit
 ### SIPOC-Model – Klantondersteuning via de App
 
 Om beter inzicht te krijgen in het klantondersteuningsproces, gebruiken we het SIPOC-model. Dit model toont de belangrijkste onderdelen van het proces van klacht tot oplossing, en laat zien wie betrokken zijn bij elke stap.
-
 ![SIPOC Diagram](SIPOC_diagram.png)
 
 
