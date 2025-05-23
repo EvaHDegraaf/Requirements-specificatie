@@ -58,6 +58,7 @@ Om beter inzicht te krijgen in het klantondersteuningsproces, gebruiken we het S
 | Klantenservice | Klantinteractie             | Analyseren van klantdata via app                | Verbeterde servicekwaliteit             | Klanten, management                           |
 +-------------+------------------------------+--------------------------------------------------+-----------------------------------------+------------------------------------------------+
 ```
+![SIPOC Diagram](./RQ/SIPOC%20diagram.png)
 
 ---
 
