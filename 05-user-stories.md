@@ -68,7 +68,7 @@ Deze user stories beschrijven de belangrijkste functionaliteiten voor de eerste 
 | User Story                        | Reden voor uitstel                                    |
 |----------------------------------|------------------------------------------------------|
 | Toegang voor klantenservicemedewerker | Complexe backend integratie, komt na MVP              |
-| Marketing dashboard met klantinzichten | Vereist uitgebreide data-analyse, focus op core features |
+| Marketing dashboard met klantinzichten | Vereist uitgebreide data analyse, focus op core features |
 
 ---
 
