@@ -2,6 +2,8 @@
 
 Hieronder zie je de sitemap van de SolMate app. Deze sitemap geeft een overzicht van de belangrijkste schermen en functies binnen de app, zodat duidelijk wordt hoe de gebruiker door de app kan navigeren. Elke hoofdpagina heeft logische onderverdelingen om de ervaring overzichtelijk, gebruiksvriendelijk en efficiënt te maken.
 
+![Sitemap](Sitemap.png)
+
 ## Uitleg van de onderdelen
 
 ### Startpagina  
@@ -33,9 +35,4 @@ Persoonlijke gegevens van de klant.
 
 - **Instellingen**: Taal, meldingen, wachtwoord wijzigen.  
 - **Product Registreren**: Klant voegt een nieuw SolMate product toe aan zijn profiel.
-
-
-
-
-![Sitemap](Sitemap.png)
 
