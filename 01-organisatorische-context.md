@@ -42,87 +42,6 @@ Deze doelen zijn niet zomaar gekozen. We hebben gekeken naar hoe andere bedrijve
 | **Klanten (eindgebruikers)**| Gebruiksvriendelijke app,  toegevoegde waarde    | Middel   | Verwacht gemak, duidelijkheid, veiligheid                   |
 | **Externe softwarebedrijf** | Duidelijke specificaties, betaalde opdracht              | Hoog     | Verwacht concrete eisen en feedback                        |
 
-### _Bedrijfsprocesanalyse_
-
-#### IST
-- Beschrijving: Klanten kunnen contact opnemen met klantenservice indien er problemen, vragen of klachten zijn.
-- Problemen:
-  - Lange wachttijden voor klantservice.
-  - Weinig inzicht op klantendata.
-  - Veel tijd en geld kwijt wegens personeel
-
-#### SOLL
-- Beschrijving: De app biedt klanten de mogelijkheid om 24/7 gebruik te maken van een AI-chatbot voor het beantwoorden van veelgestelde vragen en het geven van technische ondersteuning, daarnaast hebben de klanten de mogelijkheid om guides te bekijken, status van hun producten te zien, nieuws over de producten te lezen of contact op te nemen met een medewerker.
-- Verbetermogelijkheden:
-  - Verminderen van wachttijden voor klantenservice.
-  - Beter inzicht in klanttevredenheid door digitale feedback.
-
-
-#### GAP
-
-- **Huidige Gap**: Er is geen centrale plaats op mobiel voor klanten om informatie te krijgen over onze producten.
-- **Oplossing**: De app bied klanten meerdere mogelijkheden aan om meer te leren overons product en krijgen nieuws binnen over updates etc.
-
-- **Huidige Gap**: Er is onvoldoende self-service voor klanten, wat leidt tot lange wachttijden bij klantenservice en een hoge werkdruk op medewerkers en meer kosten aan klantenservice.
-- **Oplossing**: De app biedt pties zoals een AI-chatbot en de mogelijkheid om veelvoorkomende problemen zelf op te lossen voordat een medewerker moet worden gecontacteerd wat geld en tijd bespaard.
-
-#### SIPOC Model
-
-
-| **S (Suppliers)**                 | **I (Inputs)**                             | **P (Process)**                                                                 | **O (Outputs)**                                 | **C (Customers)**                                          |
-|-----------------------------------|-------------------------------------------|-------------------------------------------------------------------------------|-------------------------------------------------|------------------------------------------------------------|
-| Klanten                           | Klacht of vraag                           | Klant opent app > stelt vraag in de app                                       | Tevredenheid                                    | Klanten die toegang hebben tot hun geregistreerde producten en relevante updates. |
-| Marketing                         | Eisen voor app                            | Marketing maakt lijst van eisen en stuurt deze naar het externe softwarebedrijf | App                                              | Klanten die hun producten kunnen registreren via de app |
-| Extern softwarebedrijf           | Data voor app                             | Extern softwarebedrijf ontwikkelt app en geeft deze aan het bedrijf            | Automatische meldingen van garantie             | Klanten die updates ontvangen over hun geregistreerde producten |
-| Klantenservice                    | Response klant                            | Klantenservice opent ticket voor klant en beantwoordt dit                      | Klanttevredenheid                               | Klanten die hulp ontvangen bij hun vragen of problemen via de app |
-
-#### Product Vision Board 
-
-| **TARGET GROUPS**                                                                | **NEEDS**                                                                                         | **PRODUCT**                                                                                                         | **BUSINESS GOALS**                                                                                               |
-|----------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|
-| Klanten die een Telefoon hebben gekocht van Solmate                     | Klanten willen een eenvoudige manier om hun vragen beantwoord te krijgen en updates ontvangen. | app waarmee klanten updates ontvangen en selfservice hebben. | Verbeterde klantloyaliteit door verbeterde klantervaring en kostenbesparing door automatisering van de klantenservice. |
-| Klanten die behoefte hebben aan klantenservice. | Klanten willen snel hulp bij hun klacht, vraag of probleem                  | Een chatbot in de app, mogelijkhijd om contact op te nemen, en een Guide over de telefoon.            | Verhogen van klanttevredenheid en vermindering van de kosten aan klantenservice. |
-
-| **COMPETITORS**                                                   | **REVENUE STREAMS**                                                   | **COST FACTORS**                                                                                       | **CHANNELS**                                                                                                  |
-|-------------------------------------------------------------------|----------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|
-| - Concurrenten die ook een app hebben | - meer mensen die interesse hebben in een Solmate product door goede klantrelaties | - Ontwikkelingskosten voor de app, marketing- en verkoopkosten, kosten van klantenservice personeel.   | - App Store en Play Store.|
-
-#### User Stories
-
-**Als** klant  
-**wil ik** meldingen ontvangen over updates  
-**zodat** ik als eerste de nieuwe functies heb.
-
-##### Acceptatiecriteria
-- updates voor de solmate telefoon
-- Update pushberichten op het app
-
-**Als** klant  
-**wil ik** toegang tot duidelijke guides binnen handberijk over de solmate telefoon
-**zodat** ik mijn apparaat optimaal kan gebruiken.
-
-##### Acceptatiecriteria
-- Handleidingen zijn per product beschikbaar.
-- Zoekfunctie in de app.
-
-
-**Als** klant  
-**wil ik** een hatbot kunnen gebruiken voor mijn vragen  
-**zodat** ik niet met een echt persoon hoef te praten want ik ben verlegen
-
-##### Acceptatiecriteria
-- Chatbot is 24/7 beschikbaar.
-- Antwoorden op veelgestelde vragen zijn correct en duidelijk.
-
-**Als** Klantenservice  
-**wil ik** een lagere werkdruk
-**zodat** ik meer tijd heb om goed advies te geven per klant
-
-##### Acceptatiecriteria
-- kortere wachtijden
-- minder klanten per dag
-
-
 ##### Dor 
 
 
@@ -138,20 +57,7 @@ Deze doelen zijn niet zomaar gekozen. We hebben gekeken naar hoe andere bedrijve
 - **Positieve appbeoordelingen:** De app heeft positieve beoordelingen in de app stores.
 - **Verlaagde werkdruk voor klantenservice:** Door de app is de werkdruk bij de klantenservice significant verlaagd.
 
-#### UMLKlassendiagram
 
-| **Klasse**     | **Belangrijke Attributen**                                | **Relaties**                                    |
-|----------------|------------------------------------------------------------|--------------------------------------------------|
-| **Klant**      | klantID, naam, email                                       | Heeft meerdere producten                        |
-| **Product**    | productID, naam, serienummer, aankoopDatum                 | Hoort bij één klant, heeft garantie & updates   |
-| **GUide**   | Guide versie                                      | Hoort bij één product                           |
-| **Update**     | versie, beschrijving                             | Hoort bij één product                           |
-| **Chat**       | inhoud, chatID                             | Hoort bij één klant                             |
-
-
-#### Sitemap 
-
-![ Sitemap ](Sitemap.png)
 
 Bronen; https://canvas.hu.nl/courses/44699
 https://www.perforce.com/blog/alm/how-write-software-requirements-specification-srs-document
