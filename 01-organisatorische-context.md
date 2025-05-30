@@ -42,10 +42,3 @@ Deze doelen zijn niet zomaar gekozen. We hebben gekeken naar hoe andere bedrijve
 | **Klanten (eindgebruikers)**| Gebruiksvriendelijke app,  toegevoegde waarde    | Middel   | Verwacht gemak, duidelijkheid, veiligheid                   |
 | **Externe softwarebedrijf** | Duidelijke specificaties, betaalde opdracht              | Hoog     | Verwacht concrete eisen en feedback                        |
 
-
-
-Bronen; https://canvas.hu.nl/courses/44699
-https://www.perforce.com/blog/alm/how-write-software-requirements-specification-srs-document
-Versietabel; gecomit en teamoverlg erover.
-
-Team;  SolMate 
