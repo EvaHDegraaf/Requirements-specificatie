@@ -31,36 +31,5 @@ Deze doelen zijn niet zomaar gekozen. We hebben gekeken naar hoe andere bedrijve
 
 
 
-### _Stakeholderanalyse_
-
-| Stakeholder              | Belang                                                   | Invloed  | Verwachting / Opmerking                                     |
-|--------------------------|----------------------------------------------------------|----------|-------------------------------------------------------------|
-| **Raad van Commissarissen**  |  klantloyaliteit, besparing op klantenservice                                     | Hoog     | Verwacht strategisch rendement en rapportage               |
-| **CEO / Management**        | Succesvolle implementatie, tevreden klanten, winstgevendheid | Hoog     | Behoefte aan strategische beslissingen en transparantie     |
-| **Marketing**               | Meer klantbetrokkenheid, klantendata                 | Middel   | Verwacht analysefuncties en promotiemogelijkheden           |
-| **Klantenservice**          | Minder druk door self-service      | Laag     | Verwacht heldere structuur voor klanten                     |        |
-| **Klanten (eindgebruikers)**| Gebruiksvriendelijke app,  toegevoegde waarde    | Middel   | Verwacht gemak, duidelijkheid, veiligheid                   |
-| **Externe softwarebedrijf** | Duidelijke specificaties, betaalde opdracht              | Hoog     | Verwacht concrete eisen en feedback                        |
-
-
-graph TB
-    subgraph Hoog Invloed
-        A1["CEO / Management"]:::actief
-        A2["Raad van Commissarissen"]:::actief
-        A3["Externe softwarebedrijf"]:::actief
-    end
-
-    subgraph Middel Invloed
-        B1["Marketing"]:::informeren
-        B2["Klanten (eindgebruikers)"]:::informeren
-    end
-
-    subgraph Laag Invloed
-        C1["Klantenservice"]:::monitoren
-    end
-
-    classDef actief fill:#FFCE56,stroke:#000,stroke-width:1px
-    classDef informeren fill:#4BC0C0,stroke:#000,stroke-width:1px
-    classDef monitoren fill:#E7E9ED,stroke:#000,stroke-width:1px
-
+![stakeholder](stakeholderanalyse.png)
 
