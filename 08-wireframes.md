@@ -24,3 +24,5 @@ Dit zorgt voor snelle en makkelijke klantenservice, zonder lange wachttijden.
 ![Aichatbot](hulpnodig.png)
 
 ___
+![Instellingen](Notificatieinstellingen.png)
+
