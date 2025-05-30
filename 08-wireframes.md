@@ -10,4 +10,4 @@ Daarna kunnen ze in de app altijd zien hoe het staat met hun garantie en eventue
 
 ![Registeren2](Productregristatie2.png)
 
-_
+___
