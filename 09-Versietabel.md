@@ -21,3 +21,9 @@
 | 1.1          | 29-05-2025  | Alara         | Wireframes aangemaakt en verspreid over meerdere bestanden, opmaak verbeterd                                                                                      | Eva, Lucas                    |
 | 1.1.1        | 30-05-2025  | Alara         | Versietabel toegevoegd en eindcontrole uitgevoerd                                                                                                                 | Eva, Omar, Lucas             |
 
+
+Bronnen; https://canvas.hu.nl/courses/44699
+https://www.perforce.com/blog/alm/how-write-software-requirements-specification-srs-document
+Versietabel; gecommit en teamoverlg erover.
+
+Team;  SolMate 
