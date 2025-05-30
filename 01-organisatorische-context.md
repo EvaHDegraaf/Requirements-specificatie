@@ -29,6 +29,17 @@ Bij het ontwerp van de app hebben we specifieke doelstellingen geformuleerd, die
 Deze doelen zijn niet zomaar gekozen. We hebben gekeken naar hoe andere bedrijven met succes apps gebruiken, wat onze klanten belangrijk vinden, en wat wij als bedrijf willen bereiken. We willen groeien, een goede naam opbouwen en klanten op een slimme en duurzame manier helpen. Daarom zijn deze doelen realistisch, meetbaar en passen ze goed bij onze missie.
  We willen met deze app dus niet alleen onze service verbeteren, maar ook onze plek op de markt versterken en laten zien dat duurzaamheid en technologie goed samen kunnen gaan.
 
+## Stakeholderanalyse
+
+In deze analyse bekijken we de belangrijkste betrokkenen (stakeholders) rondom de SolMate app.  
+We beschrijven hun belangen, invloed op het project, en wat zij verwachten van het resultaat.  
+Dit helpt ons om te zorgen dat we aan de wensen van alle partijen voldoen en effectief kunnen samenwerken.
+
+- **Belang**: Wat de stakeholder belangrijk vindt in het project.  
+- **Invloed**: Hoeveel invloed de stakeholder heeft op beslissingen en uitvoering.  
+- **Verwachting**: Wat de stakeholder verwacht of nodig heeft van het project.
+
+De stakeholders zijn ingedeeld op basis van hun invloed: hoog, middel en laag. Zo kunnen we prioriteiten stellen in communicatie en samenwerking.
 
 
 ![stakeholder](stakeholderanalyse.png)
