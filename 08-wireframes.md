@@ -1,1 +1,1 @@
-![Registeren](Productregristratie1.png)
+![Registeren](Registeren.png)
