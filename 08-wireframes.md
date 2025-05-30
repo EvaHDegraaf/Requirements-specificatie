@@ -24,5 +24,16 @@ Dit zorgt voor snelle en makkelijke klantenservice, zonder lange wachttijden.
 ![Aichatbot](hulpnodig.png)
 
 ___
+### Wireframe 3: Gepersonaliseerde Notificaties
+
+Deze pagina laat zien hoe klanten meldingen ontvangen over hun producten.
+
+- Klanten krijgen automatisch berichten over updates en speciale aanbiedingen.
+- Klanten kunnen zelf kiezen of ze meldingen aan of uit willen zetten.
+- Zo blijft de klant altijd op de hoogte zonder dat het vervelend wordt.
+
+Dit helpt om de klant verbonden en geïnformeerd te houden.
+
 ![Instellingen](Notificatieinstellingen.png)
+___
 
