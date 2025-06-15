@@ -44,12 +44,24 @@ De stakeholders zijn ingedeeld op basis van hun invloed: hoog, middel en laag. Z
 
 ![stakeholder](StakeholderMatrix.png)
 
-Toelichting indeling
-Monitoren: Stakeholders die op de hoogte gehouden worden, maar geen actieve rol hebben in dagelijks beheer of tevredenheid.
+## Toelichting stakeholders indeling
 
-Informeren: Stakeholders die regelmatig geïnformeerd moeten worden over voortgang en resultaten.
+We hebben gekeken naar hoeveel invloed en belang elke stakeholder heeft bij het project.
 
-Actief Beheren: Stakeholders die direct betrokken zijn bij aansturing en uitvoering van het project.
+### Actief beheren (veel invloed en belang)  
+Dit zijn mensen of groepen zoals het softwarebedrijf, de Raad van Commissarissen, het marketingteam en het management.  
+Zij zijn erg belangrijk en hebben veel te zeggen. Daarom praten we vaak met hen en houden we ze goed op de hoogte.
 
-Tevreden Houden: Stakeholders waarvoor het belangrijk is dat ze tevreden blijven, vaak de eindgebruikers en support.
+### Tevreden houden (weinig invloed maar wel belang)  
+Dit zijn de gebruikers en de klantenservice.  
+Ze vinden het heel belangrijk dat alles goed werkt, maar ze hebben minder invloed op het hele project.  
+We zorgen dat zij tevreden zijn met een makkelijke app en goede hulp.
+
+### Monitoren (veel invloed maar weinig belang)  
+Hier staat nu niemand.  
+Dit zijn mensen die veel invloed hebben, maar het project zelf minder belangrijk vinden.
+
+### Informeren (weinig invloed en weinig belang)  
+Ook hier staat nu niemand.  
+Dit zijn mensen die niet veel te zeggen hebben en het project ook niet zo belangrijk vinden, maar die toch op de hoogte gehouden worden.
 
