@@ -4,7 +4,7 @@ Het domeinmodel laat zien welke belangrijke dingen (zoals klanten en producten) 
 
 In ons model zie je bijvoorbeeld dat een klant één of meer producten kan hebben. Elk product kan updates krijgen en heeft een handleiding (guide). Klanten kunnen ook via een chat praten met een chatbot of medewerker. Dit model helpt ons om te snappen wat er allemaal in het systeem moet gebeuren.
 
-![Domeinmodel](Domeinmodel.png)
+![Domeinmodel](Domeinmodel2.png)
 
 ## UML Klassendiagram
 
