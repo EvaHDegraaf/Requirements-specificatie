@@ -1,64 +1,54 @@
-## Bedrijfsprocesanalyse – SolMate
+# Bedrijfsprocesanalyse – SolMate
 
-### Inleiding
+## Inleiding
 
-SolMate ontwikkelt een mobiele app om de klanttevredenheid te verhogen, de werkdruk op de klantenservice te verminderen en de communicatie tussen klant en bedrijf te verbeteren. In deze analyse beschrijven we de belangrijkste bedrijfsprocessen, het huidige proces (IST), het gewenste proces (SOLL), de knelpunten (GAP) en gebruiken we een SIPOC-model voor het klantondersteuningsproces.
+SolMate ontwikkelt een mobiele app om de klanttevredenheid te verhogen, de werkdruk op de klantenservice te verminderen en de communicatie tussen klant en bedrijf te verbeteren. In deze analyse beschrijven we de belangrijkste bedrijfsprocessen, de huidige situatie (IST), de gewenste situatie (SOLL), de knelpunten (GAP) en gebruiken we een SIPOC-model voor het klantondersteuningsproces.
 
----
+## Overzicht van de hoofdprocessen binnen SolMate
 
-### Overzicht van de hoofdprocessen binnen SolMate
-
-1. **Productontwikkeling**  
+1. Productontwikkeling  
    Ontwikkelen en verbeteren van de SolMate-smartphones en de mobiele app.
 
-2. **Productie en logistiek**  
+2. Productie en logistiek  
    Fabricage van smartphones en distributie naar winkels en klanten.
 
-3. **Marketing en verkoop**  
+3. Marketing en verkoop  
    Promotie van de producten en app, en verkoop via verschillende kanalen.
 
-4. **Klantenservice en support**  
+4. Klantenservice en support  
    Ondersteuning van klanten via telefoon, e-mail en de app.
 
-5. **After-sales service**  
+5. After sales service  
    Garantie, reparatie en feedbackverwerking via de app.
 
----
+## IST (Huidige situatie)
 
-### IST (Huidige situatie)
-
-**Beschrijving:**  
 Momenteel verloopt klantcontact voornamelijk via traditionele kanalen zoals e-mail en telefoon. Andere processen, zoals productie en marketing, zijn losstaand en weinig geïntegreerd met klantdata.
 
-**Problemen:**
+**Problemen**
 
-- Lange wachttijden bij klantenservice.
-- Weinig inzicht in klantendata en veel handmatig werk.
-- Hoge personeelskosten voor support.
-- Geen centrale digitale plek voor klanten om informatie te vinden.
-- Productontwikkeling krijgt weinig directe feedback van gebruikers.
+- Lange wachttijden bij klantenservice  
+- Weinig inzicht in klantendata en veel handmatig werk  
+- Hoge personeelskosten voor support  
+- Geen centrale digitale plek voor klanten om informatie te vinden  
+- Productontwikkeling krijgt weinig directe feedback van gebruikers
 
----
+## SOLL (Gewenste situatie)
 
-### SOLL (Gewenste situatie)
-
-**Beschrijving:**  
 De mobiele app biedt een centrale plek waar klanten support krijgen via een AI chatbot, handleidingen raadplegen, productstatus controleren en updates ontvangen. De app integreert klantdata om marketing, productontwikkeling en service te verbeteren.
 
-**Verbetermogelijkheden:**
+**Verbetermogelijkheden**
 
-- 24/7 service via AI chatbot.
-- Klanten lossen veelvoorkomende problemen zelf op via de app.
-- Minder werkdruk bij klantenservice.
-- Directe feedbackloop van klanten naar productontwikkeling.
-- Marketing kan gepersonaliseerde promoties sturen op basis van app-data.
-- Beter inzicht in klantbehoeften voor alle afdelingen.
+- 24/7 service via AI chatbot  
+- Klanten lossen veelvoorkomende problemen zelf op via de app  
+- Minder werkdruk bij klantenservice  
+- Directe feedbackloop van klanten naar productontwikkeling  
+- Marketing kan gepersonaliseerde promoties sturen op basis van app-data  
+- Beter inzicht in klantbehoeften voor alle afdelingen
 
----
+## GAP Analyse
 
-### GAP Analyse
-
-Hieronder de belangrijkste knelpunten (GAP) tussen IST en SOLL en oplossingen die de app biedt:
+Hieronder staan de belangrijkste knelpunten tussen IST en SOLL en de oplossingen die de app biedt:
 
 ```mermaid
 graph TD
@@ -68,6 +58,7 @@ graph TD
     D[Weinig inzicht in klantbehoeften] --> D1[App verzamelt data over klantinteracties]
     E[Gebrek aan klantfeedback in productontwikkeling] --> E1[Feedback via app wordt doorgegeven aan productteam]
     F[Marketing heeft beperkte klantinformatie] --> F1[App-data ondersteunt gerichte promoties]
+
 
 ---
 
