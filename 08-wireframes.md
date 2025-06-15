@@ -28,7 +28,7 @@ Een ondersteunende chatinterface waar de gebruiker vragen kan stellen aan een ch
 **Opbouw:**  
 - Bovenaan: Titel en terugknop.  
 - Onder de header: Knoppen met veelgestelde vragen (FAQ).  
-- Chatvenster: Toon berichten van gebruiker en chatbot in simpele tekstballonnen.    
+- Chatvenster: Toon berichten van gebruiker en chatbot.    
 - Onderaan: Invoerveld met verzendknop en een knop “Contact met medewerker” voor extra hulp.  
 
 ![Hulp](Wireframe_Chatbot.png)
