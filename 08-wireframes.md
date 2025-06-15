@@ -36,3 +36,6 @@ Dit helpt om de klant verbonden en geïnformeerd te houden.
 ![Instellingen](Wireframe_Notificaties.png)
 ___
 
+
+![H en T](Wireframe_HandleidingenTroubleshooting.png)
+
