@@ -2,39 +2,63 @@
 
 ### Inleiding
 
-SolMate wil een mobiele applicatie ontwikkelen om de klanttevredenheid te verhogen, de werkdruk op de klantenservice te verminderen en de communicatie tussen klant en bedrijf te verbeteren. Momenteel verloopt klantcontact voornamelijk via traditionele kanalen zoals e-mail en telefoon. In deze analyse onderzoeken we het bestaande proces (IST), het gewenste proces (SOLL), de knelpunten (GAP) en gebruiken we een SIPOC-model om het klantondersteuningsproces te visualiseren.
+SolMate ontwikkelt een mobiele app om de klanttevredenheid te verhogen, de werkdruk op de klantenservice te verminderen en de communicatie tussen klant en bedrijf te verbeteren. In deze analyse beschrijven we de belangrijkste bedrijfsprocessen, het huidige proces (IST), het gewenste proces (SOLL), de knelpunten (GAP) en gebruiken we een SIPOC-model voor het klantondersteuningsproces.
+
+---
+
+### Overzicht van de hoofdprocessen binnen SolMate
+
+1. **Productontwikkeling**  
+   Ontwikkelen en verbeteren van de SolMate-smartphones en de mobiele app.
+
+2. **Productie en logistiek**  
+   Fabricage van smartphones en distributie naar winkels en klanten.
+
+3. **Marketing en verkoop**  
+   Promotie van de producten en app, en verkoop via verschillende kanalen.
+
+4. **Klantenservice en support**  
+   Ondersteuning van klanten via telefoon, e-mail en de app.
+
+5. **After-sales service**  
+   Garantie, reparatie en feedbackverwerking via de app.
 
 ---
 
 ### IST (Huidige situatie)
 
-**Beschrijving:** Klanten nemen contact op met de klantenservice via telefoon of e-mail voor vragen, klachten of technische problemen.
+**Beschrijving:**  
+Momenteel verloopt klantcontact voornamelijk via traditionele kanalen zoals e-mail en telefoon. Andere processen, zoals productie en marketing, zijn losstaand en weinig geïntegreerd met klantdata.
 
 **Problemen:**
 
-* Lange wachttijden bij klantenservice.
-* Weinig inzicht in klantendata en veel handmatig werk.
-* Hoge personeelskosten.
-* Gebrek aan 24/7 ondersteuning.
+- Lange wachttijden bij klantenservice.
+- Weinig inzicht in klantendata en veel handmatig werk.
+- Hoge personeelskosten voor support.
+- Geen centrale digitale plek voor klanten om informatie te vinden.
+- Productontwikkeling krijgt weinig directe feedback van gebruikers.
 
 ---
 
 ### SOLL (Gewenste situatie)
 
-**Beschrijving:** Klanten gebruiken de mobiele app om direct antwoord te krijgen via een AI chatbot, toegang te krijgen tot handleidingen, de status van hun producten te controleren, productupdates te lezen, en indien nodig contact op te nemen met een medewerker.
+**Beschrijving:**  
+De mobiele app biedt een centrale plek waar klanten support krijgen via een AI chatbot, handleidingen raadplegen, productstatus controleren en updates ontvangen. De app integreert klantdata om marketing, productontwikkeling en service te verbeteren.
 
 **Verbetermogelijkheden:**
 
-* 24/7 service via AI chatbot.
-* Klanten kunnen veelvoorkomende problemen zelfstandig oplossen.
-* Minder druk op klantenservice.
-* Meer klantinzicht via app-data.
+- 24/7 service via AI chatbot.
+- Klanten lossen veelvoorkomende problemen zelf op via de app.
+- Minder werkdruk bij klantenservice.
+- Directe feedbackloop van klanten naar productontwikkeling.
+- Marketing kan gepersonaliseerde promoties sturen op basis van app-data.
+- Beter inzicht in klantbehoeften voor alle afdelingen.
 
 ---
 
 ### GAP Analyse
-In het onderstaande overzicht analyseren we de kloof (GAP) tussen de huidige situatie (IST) en de gewenste situatie (SOLL). We tonen welke knelpunten er zijn en welke concrete oplossingen de app van SolMate hiervoor biedt. Deze analyse helpt bij het bepalen waar de grootste winst te behalen valt met het nieuwe systeem.
 
+Hieronder de belangrijkste knelpunten (GAP) tussen IST en SOLL en oplossingen die de app biedt:
 
 ```mermaid
 graph TD
@@ -42,8 +66,8 @@ graph TD
     B[Lange wachttijden bij klantenservice] --> B1[AI chatbot beantwoordt veel vragen automatisch]
     C[Hoge werkdruk op medewerkers] --> C1[Self service via app verlaagt noodzaak voor menselijk contact]
     D[Weinig inzicht in klantbehoeften] --> D1[App verzamelt data over klantinteracties]
-```
-
+    E[Gebrek aan klantfeedback in productontwikkeling] --> E1[Feedback via app wordt doorgegeven aan productteam]
+    F[Marketing heeft beperkte klantinformatie] --> F1[App-data ondersteunt gerichte promoties]
 
 ---
 
