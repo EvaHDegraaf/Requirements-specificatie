@@ -44,3 +44,22 @@ De stakeholders zijn ingedeeld op basis van hun invloed: hoog, middel en laag. Z
 
 ![stakeholder](StakeholderMatrix.png)
 
+## Stakeholderanalyse - Toelichting op de Stakeholder Matrix
+
+In deze matrix hebben we de belangrijkste stakeholders van de SolMate app ingedeeld op basis van hun invloed op het project en hun belang bij het resultaat.
+
+- **Actief beheren:**  
+  Dit zijn de stakeholders met een hoog belang en veel invloed. Het is belangrijk om hen nauw te betrekken bij beslissingen en ontwikkelingen. Voor SolMate zijn dat de Raad van Commissarissen, het CEO/Management team en het externe softwarebedrijf.
+
+- **Tevreden houden:**  
+  Deze groep heeft een middelmatig belang en invloed. Ze moeten goed geïnformeerd worden en hun feedback moet worden meegenomen. Het marketingteam valt in deze categorie.
+
+- **Informeren:**  
+  Stakeholders met een hoog belang maar minder invloed. Ze moeten regelmatig updates krijgen over de voortgang. Dit zijn bijvoorbeeld de eindgebruikers en de klantenservice.
+
+- **Monitoren:**  
+  Dit kwadrant is op dit moment leeg omdat er geen stakeholders zijn met een laag belang en lage invloed.
+
+
+
+
