@@ -4,7 +4,27 @@ Deze wireframes vormen de basis van een gebruikersinterface voor een productregi
 Ze zijn ontworpen om de belangrijkste functies en navigatie overzichtelijk en eenvoudig weer te geven, zodat gebruikers zonder problemen hun weg kunnen vinden.  
 In de volgende secties vind je per scherm een korte beschrijving van de doelstellingen en opzet.
 
-### Wireframe 1: Productregistratie
+### Wireframe 1: Startpagina
+
+**Doel:**  
+De startpagina biedt een overzichtelijk toegangspunt voor gebruikers om snel naar de belangrijkste functies te navigeren.
+
+**Opbouw:**  
+- Bovenaan: Header met de titel “Startpagina”.  
+- Welkomsttekst: Kort bericht dat de gebruiker verwelkomt en instrueert.  
+- Navigatieknoppen: Vier duidelijke, grote knoppen die linken naar:  
+  - Productregistratie  
+  - Hulp & Chat (AI Chatbot)  
+  - Notificaties  
+  - Handleidingen & Troubleshooting 
+
+
+![Start](Wireframe_Startpagina.png)
+
+___
+
+
+### Wireframe 2: Productregistratie
 
 **Doel:**  
 Deze pagina laat gebruikers toe om hun product te registreren met een serienummer, aankoopdatum en producttype.
@@ -20,7 +40,7 @@ Deze pagina laat gebruikers toe om hun product te registreren met een serienumme
 
 
 ___
-### Wireframe 2: AI Chatbot
+### Wireframe 3: AI Chatbot
 
 **Doel:**  
 Een ondersteunende chatinterface waar de gebruiker vragen kan stellen aan een chatbot, met de mogelijkheid om over te schakelen naar een medewerker.
@@ -34,7 +54,7 @@ Een ondersteunende chatinterface waar de gebruiker vragen kan stellen aan een ch
 ![Hulp](Wireframe_Chatbot.png)
 
 ___
-### Wireframe 3: Notificaties
+### Wireframe 4: Notificaties
 
 **Doel:**  
 Gebruikers informeren over updates, waarschuwingen en aanbiedingen via een lijst van meldingen.
@@ -47,7 +67,7 @@ Gebruikers informeren over updates, waarschuwingen en aanbiedingen via een lijst
 ![Instellingen](Wireframe_Notificaties.png)
 ___
 
-## 4. Handleidingen & Troubleshooting
+## 5. Handleidingen & Troubleshooting
 **Doel:**  
 Helpen bij het vinden van handleidingen of het oplossen van technische problemen via stapsgewijze vragen.
 
