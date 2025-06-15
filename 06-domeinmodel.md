@@ -14,5 +14,5 @@ Dit diagram is handig voor de mensen die de app bouwen, zodat ze weten hoe alles
 
 
 
-![UML Klassendiagram](UML_Klassendiagram.png)
+![UML Klassendiagram](UMLKlassendiagram.png)
 
