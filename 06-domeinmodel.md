@@ -9,11 +9,8 @@ Dit model helpt om inzicht te krijgen in welke onderdelen het systeem moet bevat
 
 ## UML Klassendiagram
 
-Het UML-klassendiagram laat in meer detail zien hoe het systeem eruitziet. Het toont per onderdeel (bijvoorbeeld "Klant" of "Product") welke informatie erin zit (zoals naam, e-mailadres of serienummer) en hoe alles met elkaar verbonden is.
-
-Dit diagram is handig voor de mensen die de app bouwen, zodat ze weten hoe alles technisch moet worden geregeld. Zo zie je bijvoorbeeld dat één klant meerdere producten kan hebben, of dat elk chatbericht bij een klant hoort.
-
-
+Het UML-klassendiagram geeft een gedetailleerd overzicht van de structuur van het systeem. Het laat per onderdeel zien welke informatie wordt opgeslagen, zoals bij "Klant" (naam, e-mailadres) of "Product" (serienummer, aankoopdatum), en hoe de onderdelen aan elkaar verbonden zijn.
+Dit diagram is vooral handig voor ontwikkelaars, zodat zij precies weten hoe de app technisch opgebouwd moet worden. Bijvoorbeeld, één klant kan meerdere producten bezitten, en elk chatbericht hoort bij een specifieke klan
 
 ![UML Klassendiagram](UMLKlassendiagram.png)
 
