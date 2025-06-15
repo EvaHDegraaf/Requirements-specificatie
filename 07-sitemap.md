@@ -35,4 +35,5 @@ Persoonlijke gegevens van de klant.
 
 - **Instellingen**: Taal, meldingen, wachtwoord wijzigen.  
 - **Product Registreren**: Klant voegt een nieuw SolMate product toe aan zijn profiel.
+.
 
