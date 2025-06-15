@@ -1,5 +1,9 @@
 # Wireframes & Beschrijvingen
 
+Deze wireframes vormen de basis van een gebruikersinterface voor een productregistratie en ondersteuningssysteem.  
+Ze zijn ontworpen om de belangrijkste functies en navigatie overzichtelijk en eenvoudig weer te geven, zodat gebruikers zonder problemen hun weg kunnen vinden.  
+In de volgende secties vind je per scherm een korte beschrijving van de doelstellingen en opzet.
+
 ### Wireframe 1: Productregistratie
 
 **Doel:**  
