@@ -58,7 +58,7 @@ graph TD
     D[Weinig inzicht in klantbehoeften] --> D1[App verzamelt data over klantinteracties]
     E[Gebrek aan klantfeedback in productontwikkeling] --> E1[Feedback via app wordt doorgegeven aan productteam]
     F[Marketing heeft beperkte klantinformatie] --> F1[App-data ondersteunt gerichte promoties]
-
+```
 
 ---
 
