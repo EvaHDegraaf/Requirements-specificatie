@@ -33,6 +33,6 @@ Deze pagina laat zien hoe klanten meldingen ontvangen over hun producten.
 
 Dit helpt om de klant verbonden en geïnformeerd te houden.
 
-![Instellingen](Notificatieinstellingen.png)
+![Instellingen](Wireframe_Notificaties.png)
 ___
 
