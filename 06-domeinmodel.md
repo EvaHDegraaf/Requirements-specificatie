@@ -1,10 +1,11 @@
 ## Domeinmodel
 
-Het domeinmodel laat zien welke belangrijke dingen (zoals klanten en producten) in ons systeem zitten, en hoe die dingen met elkaar te maken hebben. Het is een soort overzicht van hoe de SolMate-app werkt.
+Het domeinmodel geeft een overzicht van de belangrijkste onderdelen binnen het SolMate-systeem en hoe deze met elkaar verbonden zijn.
 
-In ons model zie je bijvoorbeeld dat een klant één of meer producten kan hebben. Elk product kan updates krijgen en heeft een handleiding (guide). Klanten kunnen ook via een chat praten met een chatbot of medewerker. Dit model helpt ons om te snappen wat er allemaal in het systeem moet gebeuren.
-
+In het model zie je dat een klant één of meerdere producten kan bezitten. Elk product heeft een handleiding en kan meerdere updates ontvangen. Klanten kunnen via een chat communiceren, waarbij elke chat uit meerdere chatberichten bestaat. Daarnaast kunnen klanten ook tickets aanmaken voor extra ondersteuning.
+Dit model helpt om inzicht te krijgen in welke onderdelen het systeem moet bevatten en hoe deze samenwerken om de functionaliteiten in de app te ondersteunen.
 ![Domeinmodel](Domeinmodel2.png)
+
 
 ## UML Klassendiagram
 
