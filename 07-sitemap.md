@@ -2,7 +2,7 @@
 
 Hieronder zie je de sitemap van de SolMate app. Deze sitemap geeft een overzicht van de belangrijkste schermen en functies binnen de app, zodat duidelijk wordt hoe de gebruiker door de app kan navigeren. Elke hoofdpagina heeft logische onderverdelingen om de ervaring overzichtelijk, gebruiksvriendelijk en efficiënt te maken.
 
-![Sitemap](Sitemap.png)
+![Sitemap](Sitemap2.png)
 
 ## Uitleg van de onderdelen
 
