@@ -42,5 +42,5 @@ Dit helpt ons om te zorgen dat we aan de wensen van alle partijen voldoen en eff
 De stakeholders zijn ingedeeld op basis van hun invloed: hoog, middel en laag. Zo kunnen we prioriteiten stellen in communicatie en samenwerking.
 
 
-![stakeholder](stakeholderanalyse.png)
+![stakeholder](StakeholderMatrix.png)
 
