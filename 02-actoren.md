@@ -57,7 +57,7 @@ In dit document beschrijven we de belangrijkste **actoren** van het te ontwikkel
   - Beantwoorden van klantvragen
 - **Behoeften**:
   - Duidelijke weergave van klantinfo
-  - Minder werkdruk dankzij goede self-service functies
+  - Minder werkdruk dankzij goede self service functies
 
 
 ---
