@@ -10,7 +10,6 @@ Hier vind je alle onderdelen die nodig zijn om het systeem goed te begrijpen en 
 - [Bedrijfsprocesanalyse (SIPOC, Ist/Soll)](03-bedrijfsprocesanalyse.md)
 - [Productvisie](04-productvisie.md)
 - [User Stories + Acceptatiecriteria](05-user-stories.md)
-- [Definition of Ready & Done](06-dor-dod.md)
 - [Domeinmodel & UML-klassendiagram](07-domeinmodel.md)
 - [Sitemap](08-sitemap.md)
 - [Wireframes](09-wireframes.md)
