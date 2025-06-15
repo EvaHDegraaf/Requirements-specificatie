@@ -22,7 +22,7 @@ Een slimme assistent die veelgestelde vragen automatisch beantwoordt.
 Digitale gebruiksaanwijzing voor het product, met tips en uitleg.
 
 ### Updates  
-Informatie over software-updates, nieuwe functies of verbeteringen voor het product.
+Informatie over software updates, nieuwe functies of verbeteringen voor het product.
 
 ### Klantenservice  
 Als de chatbot geen oplossing biedt, kan de klant hier verdere hulp krijgen.
