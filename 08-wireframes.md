@@ -5,10 +5,9 @@ Ze vullen alleen het serienummer en de aankoopdatum in.
 Als de registratie gelukt is, krijgen ze een bericht dat hun product is toegevoegd aan hun account.  
 Daarna kunnen ze in de app altijd zien hoe het staat met hun garantie en eventuele reparaties.  
 
-![Registeren1](Productregristratie1.png)
+![Productregristratie](Wireframe_Productregristratie.png)
 
 
-![Registeren2](Productregristatie2.png)
 
 ___
 ### Wireframe 2: AI Chatbot voor FAQ
