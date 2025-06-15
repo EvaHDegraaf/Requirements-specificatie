@@ -1,3 +1,5 @@
+# Wireframe & Beschrijvingen
+
 ### Toelichting bij Wireframe 1: Productregistratie
 
 Op dit scherm kunnen klanten makkelijk hun producten registreren.  
