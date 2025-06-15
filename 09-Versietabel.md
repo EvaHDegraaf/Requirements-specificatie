@@ -26,7 +26,7 @@
 | 1.5          | 15-06-2025  | Alara  | Bedrijfsprocesanalyse aangepast op basis van feedback                                      | Eva, Omar, Lucas       |
 | 1.6          | 15-06-2025  | Alara  | User stories bijgewerkt op basis van feedback                                              | Eva, Omar, Lucas       |
 | 1.7          | 15-06-2025  | Alara  | Domeinmodel bijgewerkt op basis van feedback                                               | Eva, Omar, Lucas       |
-| 1.8          | 15-06-2025  | Alara  | Sitemap aangepast op basis van feedback                                                    | Eva, Omar, Lucas       |
+| 1.8          | 15-06-2025  | Alara  | Sitemap aangepast                                                 | Eva, Omar, Lucas       |
 
 
 Bronnen; https://canvas.hu.nl/courses/44699
