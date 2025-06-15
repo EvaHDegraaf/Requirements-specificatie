@@ -20,7 +20,7 @@ Deze pagina laat zien hoe klanten snel antwoord kunnen krijgen op hun vragen via
 
 Dit zorgt voor snelle en makkelijke klantenservice, zonder lange wachttijden.
 
-![Aichatbot](hulpnodig.png)
+![Hulp](Wireframe_Chatbot.png)
 
 ___
 ### Wireframe 3: Gepersonaliseerde Notificaties
