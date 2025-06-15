@@ -7,57 +7,135 @@ Deze user stories beschrijven de belangrijkste functionaliteiten voor de eerste 
 
 ## MVP User Stories
 
-### User Story 1: Productregistratie
+### User Story 1: Productregistratie - formulier invullen  
 **Als** klant  
-**wil ik** mijn telefoon kunnen registreren in de app  
-**zodat** ik garantie kan aanvragen en reparaties kan volgen.  
+**wil ik** een formulier kunnen invullen om mijn telefoon te registreren  
+**zodat** ik mijn product kan toevoegen aan mijn profiel.  
 
 **Acceptatiecriteria:**  
-- Klant kan via een formulier een product registreren met serienummer en aankoopdatum.  
-- Registratie bevestigt succesvol en product wordt toegevoegd aan het profiel van de klant.  
-- Klant kan de status van reparaties en garantieclaims inzien.  
-
-**T-shirt size:** M  
-
----
-
-### User Story 2: AI chatbot voor FAQ
-**Als** klant  
-**wil ik** snel antwoord krijgen op veelgestelde vragen via een AI-chatbot  
-**zodat** ik niet telkens contact hoef te zoeken met de klantenservice.  
-
-**Acceptatiecriteria:**  
-- Klant kan in de app een chat starten met de AI-chatbot.  
-- De chatbot kan minimaal 80% van de veelgestelde vragen correct beantwoorden.  
-- Indien chatbot geen antwoord heeft, kan klant doorverbonden worden naar een medewerker.  
-
-**T-shirt size:** L  
-
----
-
-### User Story 3: Gepersonaliseerde notificaties
-**Als** klant  
-**wil ik** notificaties ontvangen over mijn geregistreerde producten, zoals updates en aanbiedingen  
-**zodat** ik altijd op de hoogte ben van belangrijke informatie.  
-
-**Acceptatiecriteria:**  
-- Klant ontvangt pushnotificaties bij updates van geregistreerde producten.  
-- Klant ontvangt relevante aanbiedingen gebaseerd op zijn geregistreerde producten.  
-- Klant kan notificaties in- en uitschakelen.  
+- Klant kan serienummer en aankoopdatum invoeren.  
+- Product wordt toegevoegd aan klantprofiel na succesvolle registratie.  
 
 **T-shirt size:** S  
 
 ---
 
-### User Story 4: Handleiding en troubleshooting gids  
+### User Story 2: Productregistratie - garantie en reparatie status  
 **Als** klant  
-**wil ik** gemakkelijk toegang hebben tot handleidingen en probleemoplossende guides  
+**wil ik** de status van mijn garantie en reparaties kunnen inzien  
+**zodat** ik weet waar mijn aanvraag staat.  
+
+**Acceptatiecriteria:**  
+- Klant kan actuele status van reparaties en garantieclaims bekijken.  
+
+**T-shirt size:** M  
+
+---
+
+### User Story 3: AI chatbot starten  
+**Als** klant  
+**wil ik** een chat kunnen starten met de AI chatbot  
+**zodat** ik snel hulp kan krijgen via de app.  
+
+**Acceptatiecriteria:**  
+- Klant kan chat openen en berichten versturen naar de AI chatbot.  
+
+**T-shirt size:** S  
+
+---
+
+### User Story 4: AI chatbot FAQ beantwoording  
+**Als** klant  
+**wil ik** dat de AI chatbot minimaal 80% van de FAQ’s kan beantwoorden  
+**zodat** ik snel antwoord krijg zonder menselijke tussenkomst.  
+
+**Acceptatiecriteria:**  
+- De chatbot geeft correcte antwoorden op minimaal 80% van de veelgestelde vragen.  
+
+**T-shirt size:** M  
+
+---
+
+### User Story 5: Chat doorverbinden naar medewerker  
+**Als** klant  
+**wil ik** doorverbonden kunnen worden met een medewerker als de chatbot mijn vraag niet kan beantwoorden  
+**zodat** ik toch geholpen word met mijn probleem.  
+
+**Acceptatiecriteria:**  
+- Indien de chatbot geen passend antwoord heeft, kan klant direct worden doorverbonden met een medewerker.  
+
+**T-shirt size:** M  
+
+---
+
+### User Story 6: Pushnotificaties voor productupdates  
+**Als** klant  
+**wil ik** pushnotificaties ontvangen over updates van mijn geregistreerde producten  
+**zodat** ik altijd op de hoogte ben van belangrijke wijzigingen.  
+
+**Acceptatiecriteria:**  
+- Klant ontvangt notificaties bij nieuwe updates van geregistreerde producten.  
+
+**T-shirt size:** S  
+
+---
+
+### User Story 7: Pushnotificaties voor aanbiedingen  
+**Als** klant  
+**wil ik** gepersonaliseerde aanbiedingen ontvangen via notificaties  
+**zodat** ik relevante kortingen en acties niet mis.  
+
+**Acceptatiecriteria:**  
+- Klant ontvangt relevante aanbiedingen gebaseerd op geregistreerde producten.  
+
+**T-shirt size:** S  
+
+---
+
+### User Story 8: Notificaties in- en uitschakelen  
+**Als** klant  
+**wil ik** notificaties aan of uit kunnen zetten  
+**zodat** ik zelf bepaal welke meldingen ik ontvang.  
+
+**Acceptatiecriteria:**  
+- Klant kan notificaties eenvoudig in- of uitschakelen via instellingen.  
+
+**T-shirt size:** S  
+
+---
+
+### User Story 9: Handleidingen raadplegen  
+**Als** klant  
+**wil ik** handleidingen kunnen bekijken in de app  
+**zodat** ik zelf informatie kan vinden over mijn product.  
+
+**Acceptatiecriteria:**  
+- Klant kan handleidingen openen en doorlezen binnen de app.  
+
+**T-shirt size:** M  
+
+---
+
+### User Story 10: Interactieve troubleshooting guides  
+**Als** klant  
+**wil ik** interactieve probleemoplossende guides gebruiken  
 **zodat** ik zelf veelvoorkomende problemen kan oplossen.  
 
 **Acceptatiecriteria:**  
-- Klant kan in de app handleidingen en FAQ's raadplegen.  
-- Guides zijn interactief en makkelijk te volgen.  
-- De app biedt suggesties voor problemen gebaseerd op de input van de klant.  
+- De app biedt stap-voor-stap interactieve guides.  
+- De guides zijn eenvoudig en duidelijk.  
+
+**T-shirt size:** M  
+
+---
+
+### User Story 11: Probleemsuggesties gebaseerd op input  
+**Als** klant  
+**wil ik** dat de app suggesties doet voor mogelijke problemen gebaseerd op mijn invoer  
+**zodat** ik sneller de juiste oplossing kan vinden.  
+
+**Acceptatiecriteria:**  
+- Klant krijgt relevante probleemoplossingen aangeboden gebaseerd op zijn/haar beschrijving.  
 
 **T-shirt size:** M  
 
@@ -73,7 +151,7 @@ Deze user stories beschrijven de belangrijkste functionaliteiten voor de eerste 
 ---
 
 ## Prioritering MVP  
-De MVP focust op het bieden van directe klantwaarde en het reduceren van operationele lasten. De gekozen user stories zijn essentieel om de app bruikbaar en aantrekkelijk te maken voor SolMate klanten.
+Deze opsplitsing maakt het makkelijker om te prioriteren, ontwikkelen en testen. Zo zorgen we dat elke functionaliteit duidelijk, klein genoeg en haalbaar is voor de eerste versie van de app.
 
 ---
 
