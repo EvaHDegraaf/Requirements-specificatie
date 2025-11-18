@@ -6,4 +6,4 @@ Dit overzicht helpt ons om gericht te werken aan een product dat niet alleen waa
 
 
 
-![Productvisie](Product_Vision_Board.png)
+![Productvisie](images/Productvisie-Bimbonbon.png)
